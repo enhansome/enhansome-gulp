@@ -1263,7 +1263,7 @@
             "last_commit": "2026-07-23T11:41:59Z",
             "owner": "postcss",
             "repo": "autoprefixer",
-            "stars": 22251
+            "stars": 22252
           }
         },
         {
@@ -1935,7 +1935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:25.135Z",
+    "last_updated": "2026-08-13T14:47:41.181Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",
     "enhanced_repository": "enhansome/enhansome-gulp",

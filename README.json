@@ -1,0 +1,1945 @@
+{
+  "items": [
+    {
+      "description": ":octocat: All contributions welcome. Feel free to contribute (guidelines).",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "[:no_entry:] - A deprecation notice;",
+      "items": [],
+      "title": "Legend"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blacklisted Plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-27T19:27:25Z",
+            "owner": "gulpjs",
+            "repo": "plugins",
+            "stars": 278
+          }
+        }
+      ],
+      "title": "General Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Getting Started",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API Documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLI Documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Writing a Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recipes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        }
+      ],
+      "title": "Official Documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gulp Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2016-08-28T08:20:19Z",
+            "owner": "osscafe",
+            "repo": "gulp-cheatsheet",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Gulp Recipes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-31T03:55:37Z",
+            "owner": "johnpapa",
+            "repo": "gulp-patterns",
+            "stars": 500
+          }
+        }
+      ],
+      "title": "Miscellaneous Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-sass",
+          "description": "Sass → CSS with libsass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-05T08:57:15Z",
+            "owner": "dlmanning",
+            "repo": "gulp-sass",
+            "stars": 1552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-stream",
+          "description": "Run webpack as a stream to conveniently integrate with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-07T21:22:02Z",
+            "owner": "shama",
+            "repo": "webpack-stream",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-typescript",
+          "description": "TypeScript → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-02T19:34:24Z",
+            "owner": "ivogabe",
+            "repo": "gulp-typescript",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-postcss",
+          "description": "Pipe CSS through PostCSS processors with a single parse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-06T10:48:07Z",
+            "owner": "postcss",
+            "repo": "gulp-postcss",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-less",
+          "description": "Less → CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-20T16:51:24Z",
+            "owner": "gulp-community",
+            "repo": "gulp-less",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-ruby-sass",
+          "description": "Sass → CSS with Ruby Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T11:59:15Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-ruby-sass",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-react",
+          "description": "Facebook React JSX templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-10-15T18:16:38Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-react",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-coffee",
+          "description": "Coffeescript → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-16T18:58:21Z",
+            "owner": "gulp-community",
+            "repo": "gulp-coffee",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-stylus",
+          "description": "Stylus → CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-30T07:50:38Z",
+            "owner": "stephenlacy",
+            "repo": "gulp-stylus",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-compass",
+          "description": "Sass → CSS with Ruby Sass & Compass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-13T02:11:53Z",
+            "owner": "appleboy",
+            "repo": "gulp-compass",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Compilation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-babel",
+          "description": "ES6 → ES5 with babel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T18:39:23Z",
+            "owner": "babel",
+            "repo": "gulp-babel",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-traceur",
+          "description": "ES6 → ES5 using Traceur.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T12:02:11Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-traceur",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-cssnext",
+          "description": "[:no_entry:] Use tomorrow's CSS syntax, today, using cssnext.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-01-04T07:32:51Z",
+            "owner": "MoOx",
+            "repo": "gulp-cssnext",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-es6-transpiler",
+          "description": "[:no_entry:] ES6 → ES5 with es6-transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-11-14T13:03:05Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-es6-transpiler",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-myth",
+          "description": "Myth - a polyfill for future versions of the CSS spec.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T11:53:19Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-myth",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-regenerator",
+          "description": "ES6 → ES5 with Regenerator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T11:54:09Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-regenerator",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Transpilation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-imagemin",
+          "description": "Minify PNG, JPEG, GIF and SVG images with imagemin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-11T06:45:37Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-imagemin",
+            "stars": 1906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-uglify",
+          "description": "Minify JavaScript with UglifyJS2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-23T02:51:11Z",
+            "owner": "terinjokes",
+            "repo": "gulp-uglify",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-htmlmin",
+          "description": "Minify HTML with html-minifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-11-08T15:31:25Z",
+            "owner": "jonschlinkert",
+            "repo": "gulp-htmlmin",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-clean-css",
+          "description": "Minify CSS with clean-css.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T10:26:30Z",
+            "owner": "scniro",
+            "repo": "gulp-clean-css",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-svgmin",
+          "description": "Minify SVG files with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T20:36:40Z",
+            "owner": "ben-eb",
+            "repo": "gulp-svgmin",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-csso",
+          "description": "Minify CSS with CSSO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-25T19:24:18Z",
+            "owner": "ben-eb",
+            "repo": "gulp-csso",
+            "stars": 239
+          }
+        }
+      ],
+      "title": "Minification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-uncss",
+          "description": "Remove unused CSS selectors with UnCSS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-07-08T20:02:10Z",
+            "owner": "ben-eb",
+            "repo": "gulp-uncss",
+            "stars": 928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-iconfont",
+          "description": "Create icon fonts from several SVG icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T19:24:05Z",
+            "owner": "nfroidure",
+            "repo": "gulp-iconfont",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-svgstore",
+          "description": "Combine svg files into one with elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-07T07:25:05Z",
+            "owner": "w0rm",
+            "repo": "gulp-svgstore",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-responsive",
+          "description": "Generate images at different sizes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-04T08:26:06Z",
+            "owner": "mahnunchik",
+            "repo": "gulp-responsive",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-css-base64",
+          "description": "Transform all resources found (those within a url() declaration) in CSS files into base64-encoded data URI strings.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-04T22:58:14Z",
+            "owner": "zckrs",
+            "repo": "gulp-css-base64",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-svg2png",
+          "description": "Convert SVGs to PNGs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T17:16:12Z",
+            "owner": "akoenig",
+            "repo": "gulp-svg2png",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wiredep",
+          "description": "Wire Bower dependencies to your source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-17T21:20:53Z",
+            "owner": "taptapship",
+            "repo": "wiredep",
+            "stars": 1142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-inject",
+          "description": "Transform each file to a string and inject each transformed string into placeholders in the target stream files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-28T21:56:27Z",
+            "owner": "klei",
+            "repo": "gulp-inject",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-useref",
+          "description": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-27T18:50:12Z",
+            "owner": "jonkemp",
+            "repo": "gulp-useref",
+            "stars": 700
+          }
+        }
+      ],
+      "title": "Injecting Assets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-angular-templatecache",
+          "description": "Concatenate and register AngularJS templates in the $templateCache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-17T14:01:50Z",
+            "owner": "miickel",
+            "repo": "gulp-angular-templatecache",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-jade",
+          "description": "Jade → HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-12T13:05:11Z",
+            "owner": "gulp-community",
+            "repo": "gulp-pug",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-template",
+          "description": "Lodash templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-09T11:29:06Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-template",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-markdown",
+          "description": "Markdown → HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T12:57:46Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-markdown",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-handlebars",
+          "description": "Handlebars templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-01T22:04:47Z",
+            "owner": "lazd",
+            "repo": "gulp-handlebars",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-nunjucks",
+          "description": "Nunjucks templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-14T23:00:47Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-nunjucks",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-hb",
+          "description": "Handlebars templates → HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-28T17:15:11Z",
+            "owner": "shannonmoeller",
+            "repo": "gulp-hb",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-riot",
+          "description": "Riot templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-07T02:53:30Z",
+            "owner": "e-jigsaw",
+            "repo": "gulp-riot",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-swig",
+          "description": "Swig templates → HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T17:23:49Z",
+            "owner": "colynb",
+            "repo": "gulp-swig",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-dustjs",
+          "description": "Dust templates → JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T11:48:43Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-dust",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-remark",
+          "description": "Gulp plugin for remark - markdown processor powered by plugins",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-10-01T11:43:28Z",
+            "owner": "remarkjs",
+            "repo": "gulp-remark",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Templating"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-csslint",
+          "description": "Automated linting of CSS with CSSLint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T14:11:33Z",
+            "owner": "CSSLint",
+            "repo": "csslint",
+            "stars": 4811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-eslint",
+          "description": "Identify and report on patterns found in ECMAScript/JavaScript code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-23T16:20:19Z",
+            "owner": "adametry",
+            "repo": "gulp-eslint",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-jshint",
+          "description": "Detect errors and potential problems in JavaScript with JSHint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-31T22:44:27Z",
+            "owner": "spalger",
+            "repo": "gulp-jshint",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-check-unused-css",
+          "description": "Check your HTML templates for unused CSS classes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-09-21T14:16:12Z",
+            "owner": "zalando",
+            "repo": "gulp-check-unused-css",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-jscs",
+          "description": "Check JavaScript code style with jscs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-16T21:19:22Z",
+            "owner": "jscs-dev",
+            "repo": "gulp-jscs",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-tslint",
+          "description": "TypeScript linter plugin for gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-15T17:55:03Z",
+            "owner": "panuhorsmalahti",
+            "repo": "gulp-tslint",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-htmlhint",
+          "description": "HTMLHint wrapper to validate your HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-24T19:16:45Z",
+            "owner": "bezoerb",
+            "repo": "gulp-htmlhint",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-w3cjs",
+          "description": "Validate HTML with w3cjs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-16T19:54:59Z",
+            "owner": "callumacrae",
+            "repo": "gulp-w3cjs",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-coffeelint",
+          "description": "A style checker that helps keep CoffeeScript code clean.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-05-02T08:02:41Z",
+            "owner": "janraasch",
+            "repo": "gulp-coffeelint",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-lesshint",
+          "description": "Lint less files with lesshint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-30T18:38:48Z",
+            "owner": "lesshint",
+            "repo": "gulp-lesshint",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Linting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "browser-sync",
+          "description": "Keep multiple browsers & devices in sync when building websites (recipes).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-09T08:29:15Z",
+            "owner": "BrowserSync",
+            "repo": "browser-sync",
+            "stars": 12293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-livereload",
+          "description": "Gulp plugin for livereload.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-30T19:03:14Z",
+            "owner": "gulp-community",
+            "repo": "gulp-livereload",
+            "stars": 762
+          }
+        }
+      ],
+      "title": "Live Reload"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-changed",
+          "description": "Only pass through changed files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-07T11:06:24Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-changed",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-cached",
+          "description": "A simple in-memory file cache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-08T18:01:59Z",
+            "owner": "gulp-community",
+            "repo": "gulp-cached",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-newer",
+          "description": "Pass through newer source files only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-26T14:19:52Z",
+            "owner": "tschaub",
+            "repo": "gulp-newer",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-remember",
+          "description": "Remember and recall files passed through it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-14T11:49:16Z",
+            "owner": "ahaurw01",
+            "repo": "gulp-remember",
+            "stars": 149
+          }
+        }
+      ],
+      "title": "Caching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "run-sequence",
+          "description": "Run a series of dependent gulp tasks in order.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-03T16:21:47Z",
+            "owner": "OverZealous",
+            "repo": "run-sequence",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-if",
+          "description": "Conditionally run a task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-19T17:01:11Z",
+            "owner": "robrich",
+            "repo": "gulp-if",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "merge-stream",
+          "description": "Merge multiple streams into one interleaved stream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-20T04:46:40Z",
+            "owner": "grncdr",
+            "repo": "merge-stream",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "streamqueue",
+          "description": "Pipe queued streams progressively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T20:19:26Z",
+            "owner": "nfroidure",
+            "repo": "streamqueue",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Flow Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-notify",
+          "description": "Notification plugin for gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:08:34Z",
+            "owner": "mikaelbr",
+            "repo": "gulp-notify",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-size",
+          "description": "Display the size of your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-24T06:31:41Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-size",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-debug",
+          "description": "Debug vinyl file streams to see what files are run through your gulp pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-10T18:53:09Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-debug",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-beer",
+          "description": "Better Error Reporting with interactive system notifications and custom server for error displaying.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-27T18:58:52Z",
+            "owner": "lordgiotto",
+            "repo": "gulp-beer",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gulp-mocha",
+          "description": "Run Mocha tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-19T21:08:55Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-mocha",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-karma",
+          "description": "Karma test runner for gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-11-04T18:29:37Z",
+            "owner": "karma-runner",
+            "repo": "gulp-karma",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-protractor",
+          "description": "Gulp wrapper for Protractor tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-25T21:01:57Z",
+            "owner": "mllrsohn",
+            "repo": "gulp-protractor",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-jasmine",
+          "description": "Run Jasmine 2 tests in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-03T19:38:45Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-jasmine",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-coverage",
+          "description": "Coverage reporting for Node.js that is independent of the test runner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-03-25T01:05:16Z",
+            "owner": "dylanb",
+            "repo": "gulp-coverage",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-ava",
+          "description": "Run AVA tests with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-05T12:11:43Z",
+            "owner": "avajs",
+            "repo": "gulp-ava",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "autoprefixer",
+          "description": "Parse CSS and add vendor prefixes to rules by Can I Use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T11:41:59Z",
+            "owner": "postcss",
+            "repo": "autoprefixer",
+            "stars": 22251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-rev",
+          "description": "Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-31T05:27:23Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-rev",
+            "stars": 1536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "del",
+          "description": "Delete files/folders using globs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T15:58:02Z",
+            "owner": "sindresorhus",
+            "repo": "del",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-sourcemaps",
+          "description": "Provide source map support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T17:35:33Z",
+            "owner": "gulp-sourcemaps",
+            "repo": "gulp-sourcemaps",
+            "stars": 1094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-util",
+          "description": "Set of useful utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-31T11:18:21Z",
+            "owner": "gulpjs",
+            "repo": "gulp-util",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-plumber",
+          "description": "Prevent pipe breaking caused by errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-27T16:39:27Z",
+            "owner": "floatdrop",
+            "repo": "gulp-plumber",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-load-plugins",
+          "description": "Automatically load in gulp plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T03:59:14Z",
+            "owner": "jackfranklin",
+            "repo": "gulp-load-plugins",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-rename",
+          "description": "Rename files easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-16T05:30:05Z",
+            "owner": "hparra",
+            "repo": "gulp-rename",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-file-include",
+          "description": "Include files with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-27T16:00:36Z",
+            "owner": "haoxins",
+            "repo": "gulp-file-include",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-gh-pages",
+          "description": "Publish contents to Github pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-14T16:57:26Z",
+            "owner": "shinnn",
+            "repo": "gulp-gh-pages",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "main-bower-files",
+          "description": "Simplify build process setup by dynamically getting the library files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-21T07:19:41Z",
+            "owner": "ck86",
+            "repo": "main-bower-files",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-replace",
+          "description": "A string replace plugin for gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-17T16:36:56Z",
+            "owner": "lazd",
+            "repo": "gulp-replace",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-git",
+          "description": "Run Git commands with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-24T16:28:51Z",
+            "owner": "stephenlacy",
+            "repo": "gulp-git",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-filter",
+          "description": "Filter files in a vinyl stream using globbing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-17T06:28:33Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-filter",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-inline-css",
+          "description": "Inline your CSS properties into the style attribute in an HTML file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-19T03:49:30Z",
+            "owner": "jonkemp",
+            "repo": "gulp-inline-css",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-zip",
+          "description": "ZIP compress files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-09T03:08:14Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-zip",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-ng-annotate",
+          "description": "Add AngularJS dependency injection annotations with ng-annotate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-12T20:17:09Z",
+            "owner": "Kagami",
+            "repo": "gulp-ng-annotate",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-bump",
+          "description": "Bump any semver JSON version.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-25T03:29:36Z",
+            "owner": "stephenlacy",
+            "repo": "gulp-bump",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-strip-debug",
+          "description": "Strip console, alert, and debugger statements from JavaScript code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-11T17:50:35Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-strip-debug",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-exec",
+          "description": "Run a shell command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-19T16:59:49Z",
+            "owner": "robrich",
+            "repo": "gulp-exec",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-cssimport",
+          "description": "Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-02T13:02:36Z",
+            "owner": "unlight",
+            "repo": "gulp-cssimport",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-eval",
+          "description": "Eval JS-expression or require CommonJS modules and JSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-31T21:45:50Z",
+            "owner": "node-eval",
+            "repo": "gulp-eval",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-preprocess",
+          "description": "Preprocess files based on custom context or environment configuration.",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scaffolding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "web-starter-kit",
+          "description": "Google Web Starter Kit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-04-22T23:42:34Z",
+            "owner": "google",
+            "repo": "web-starter-kit",
+            "stars": 18280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-5-boilerplate",
+          "description": "A Laravel 5 boilerplate project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-09-28T05:06:22Z",
+            "owner": "rappasoft",
+            "repo": "laravel-boilerplate",
+            "stars": 5633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "este",
+          "description": "The most complete React/Flux dev stack and starter kit for isomorphic functional web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-09-03T21:39:46Z",
+            "owner": "este",
+            "repo": "este",
+            "stars": 5325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polymer-starter-kit",
+          "description": "A starting point for Polymer 1.0 apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-03-28T09:49:35Z",
+            "owner": "Polymer",
+            "repo": "polymer-starter-kit",
+            "stars": 2430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angularjs-gulp-browserify-boilerplate",
+          "description": "Boilerplate using AngularJS, Sass, gulp, and Browserify.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-09-14T03:58:00Z",
+            "owner": "jakemmarsh",
+            "repo": "angularjs-gulp-browserify-boilerplate",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kraken",
+          "description": "A lightweight, mobile-first boilerplate for front-end web developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-28T18:10:52Z",
+            "owner": "cferdinandi",
+            "repo": "kraken",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mnml",
+          "description": "Minimal boilerplate to start a responsive HTML5/Sass project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-10-05T17:23:28Z",
+            "owner": "mrmrs",
+            "repo": "mnml",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hapi-ninja",
+          "description": "A Node.js, Hapi, and Swig boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-04T16:08:00Z",
+            "owner": "poeticninja",
+            "repo": "hapi-ninja",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-starterkit",
+          "description": "React starter kit that contains react-router, Reflux, jest, webpack, gulp and Stylus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-08-30T13:59:40Z",
+            "owner": "wbkd",
+            "repo": "react-starterkit",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-front",
+          "description": "Frontend boilerplate and modular BEM css framework based on gulp, pug, stylus, postcss, webpack and babel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2022-12-08T00:55:30Z",
+            "owner": "zoxon",
+            "repo": "gulp-front",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-plugin-boilerplate",
+          "description": "Boilerplate to kickstart creating gulp plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T17:34:55Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-plugin-boilerplate",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Front End Starter",
+          "description": "A boilerplate for frontend projects powered by Gulp, HTML5 bolierplate, Sass, PostCss and Webpack(for Babel transpiling).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-04-11T19:40:01Z",
+            "owner": "darktasevski",
+            "repo": "Frontend-Starter-Kit",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "generator-gulp-webapp",
+          "description": "A gulp generator for modern webapps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-30T08:49:40Z",
+            "owner": "yeoman",
+            "repo": "generator-webapp",
+            "stars": 3744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-gulp-angular",
+          "description": "Yeoman generator for AngularJS with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-16T16:56:04Z",
+            "owner": "Swiip",
+            "repo": "generator-gulp-angular",
+            "stars": 3685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-react-gulp-browserify",
+          "description": "A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-10T10:43:35Z",
+            "owner": "randylien",
+            "repo": "generator-react-gulp-browserify",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-jekyllized",
+          "description": "Jekyll workflow with gulp, Sass, AutoPrefixer, asset optimization and cache busting and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-08T17:23:23Z",
+            "owner": "sondr3",
+            "repo": "generator-jekyllized",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-angulpify",
+          "description": "Yeoman generator involving AngularJS, gulp and Browserify.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-08-13T14:52:44Z",
+            "owner": "jgoux",
+            "repo": "generator-angulpify",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-ionic-gulp",
+          "description": "A Yeoman generator for Ionic Projects with gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-16T13:43:44Z",
+            "owner": "tmaximini",
+            "repo": "generator-ionic-gulp",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-gulp-bootstrap",
+          "description": "Yeoman generator for Bootstrap, gulp & libsass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-06-13T21:13:21Z",
+            "owner": "niallobrien",
+            "repo": "generator-gulp-bootstrap",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-gulp-plugin-boilerplate",
+          "description": "Scaffold out a gulp plugin boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-01T10:53:31Z",
+            "owner": "sindresorhus",
+            "repo": "generator-gulp-plugin-boilerplate",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-node-gulp",
+          "description": "A Node.js module generator including gulp and Mocha.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-20T02:21:16Z",
+            "owner": "youngmountain",
+            "repo": "generator-node-gulp",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Yeoman Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elixir",
+          "description": "A clean, fluent API for defining basic gulp tasks for your Laravel applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-30T19:11:15Z",
+            "owner": "laravel",
+            "repo": "elixir",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-app",
+          "description": "Gulp as an app (OS X).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-24T07:03:13Z",
+            "owner": "sindresorhus",
+            "repo": "gulp-app",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmn-gulp-tasks",
+          "description": "Example of gulp tasks unit testing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-09-29T15:15:35Z",
+            "owner": "Lostmyname",
+            "repo": "lmn-gulp-tasks",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "To the extent possible under law, Philipp Alferov has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:25.135Z",
+    "original_repository": "alferov/awesome-gulp",
+    "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",
+    "enhanced_repository": "enhansome/enhansome-gulp",
+    "enhanced_repository_description": null,
+    "title": "Awesome Gulp with stars"
+  }
+}

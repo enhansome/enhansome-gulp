@@ -329,7 +329,7 @@
             "last_commit": "2026-07-21T18:39:23Z",
             "owner": "babel",
             "repo": "gulp-babel",
-            "stars": 1307
+            "stars": 1308
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2017-02-17T21:20:53Z",
             "owner": "taptapship",
             "repo": "wiredep",
-            "stars": 1142
+            "stars": 1143
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2026-07-23T11:41:59Z",
             "owner": "postcss",
             "repo": "autoprefixer",
-            "stars": 22251
+            "stars": 22250
           }
         },
         {
@@ -1588,7 +1588,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18280
+            "stars": 18281
           }
         },
         {
@@ -1935,7 +1935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:08:04.894Z",
+    "last_updated": "2026-08-16T14:09:25.912Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",
     "enhanced_repository": "enhansome/enhansome-gulp",

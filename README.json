@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32950
+                "stars": 32948
               }
             }
           ],
@@ -851,7 +851,7 @@
                 "last_commit": "2024-12-05T14:11:33Z",
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4809
+                "stars": 4810
               }
             },
             {
@@ -1343,7 +1343,7 @@
                 "last_commit": "2026-07-23T11:41:59Z",
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22237
+                "stars": 22236
               }
             },
             {
@@ -1686,7 +1686,7 @@
                 "last_commit": "2024-04-22T23:42:34Z",
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18276
+                "stars": 18275
               }
             },
             {
@@ -2057,7 +2057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:21:02.314Z",
+    "last_updated": "2026-08-22T14:05:53.776Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_id": 38231111,
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",

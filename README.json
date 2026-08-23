@@ -433,7 +433,7 @@
                 "last_commit": "2025-11-11T06:45:37Z",
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1905
+                "stars": 1904
               }
             },
             {
@@ -1701,7 +1701,7 @@
                 "last_commit": "2025-09-28T05:06:22Z",
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5634
+                "stars": 5633
               }
             },
             {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2019-09-03T21:39:46Z",
                 "owner": "este",
                 "repo": "este",
-                "stars": 5325
+                "stars": 5324
               }
             },
             {
@@ -2057,7 +2057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:05:53.776Z",
+    "last_updated": "2026-08-23T14:09:36.581Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_id": 38231111,
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",

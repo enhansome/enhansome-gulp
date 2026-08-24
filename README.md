@@ -2,7 +2,7 @@
 
 > A curated list of awesome [gulp](https://github.com/gulpjs/gulp) ⭐ 32,947 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 resources, plugins, and boilerplates for a better development workflow automation.
 
-*Looking for something else? Take a look at other [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21.*
+*Looking for something else? Take a look at other [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,522 | 🐛 106 | 📅 2026-08-21.*
 
 ## Contribution
 
@@ -138,7 +138,7 @@
 
 * [gulp-sass](https://github.com/dlmanning/gulp-sass) ⭐ 1,551 | 🐛 23 | 🌐 JavaScript | 📅 2025-03-05 - Sass → CSS with [libsass](https://github.com/sass/libsass) ⚠️ Archived.
 * [webpack-stream](https://github.com/shama/webpack-stream) ⭐ 1,385 | 🐛 55 | 🌐 JavaScript | 📅 2021-11-07 - Run [webpack](https://github.com/webpack/webpack) ⭐ 65,971 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-23 as a stream to conveniently integrate with gulp.
-* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) ⭐ 852 | 🐛 62 | 🌐 JavaScript | 📅 2023-02-02 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,650 | 🐛 5,219 | 🌐 Go | 📅 2026-08-24 → JavaScript.
+* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) ⭐ 852 | 🐛 62 | 🌐 JavaScript | 📅 2023-02-02 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,650 | 🐛 5,220 | 🌐 Go | 📅 2026-08-24 → JavaScript.
 * [gulp-postcss](https://github.com/postcss/gulp-postcss) ⭐ 762 | 🐛 6 | 🌐 JavaScript | 📅 2024-02-06 - Pipe CSS through [PostCSS](https://github.com/postcss/postcss) ⭐ 28,983 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-19 processors with a single parse.
 * [gulp-less](https://github.com/plus3network/gulp-less) ⭐ 558 | 🐛 10 | 🌐 JavaScript | 📅 2021-06-20 - [Less](https://github.com/less/less.js) ⭐ 17,028 | 🐛 181 | 🌐 JavaScript | 📅 2026-08-13 → CSS.
 * [gulp-ruby-sass](https://github.com/sindresorhus/gulp-ruby-sass) ⚠️ Archived - Sass → CSS with Ruby Sass.
@@ -171,7 +171,7 @@
 
 ### Optimization
 
-* [gulp-uncss](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived - Remove unused CSS selectors with [UnCSS](https://github.com/giakki/uncss) ⭐ 9,401 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18.
+* [gulp-uncss](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived - Remove unused CSS selectors with [UnCSS](https://github.com/giakki/uncss) ⭐ 9,400 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18.
 * [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) ⭐ 849 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-08 - Create icon fonts from several SVG icons.
 * [gulp-svgstore](https://github.com/w0rm/gulp-svgstore) ⭐ 640 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-07 - Combine svg files into one with `<symbol>` elements.
 * [gulp-responsive](https://github.com/mahnunchik/gulp-responsive) ⭐ 495 | 🐛 44 | 🌐 JavaScript | 📅 2021-08-04 - Generate images at different sizes.
@@ -205,7 +205,7 @@
 * [gulp-jshint](https://github.com/spalger/gulp-jshint) ⭐ 417 | 🐛 15 | 🌐 JavaScript | 📅 2018-10-31 - Detect errors and potential problems in JavaScript with [JSHint](https://github.com/jshint/jshint) ⭐ 9,072 | 🐛 465 | 🌐 JavaScript | 📅 2025-02-13.
 * [gulp-check-unused-css](https://github.com/zalando/gulp-check-unused-css) ⚠️ Archived - Check your HTML templates for unused CSS classes.
 * [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) ⭐ 311 | 🐛 13 | 🌐 JavaScript | 📅 2018-02-16 - Check JavaScript code style with [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived.
-* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) ⭐ 123 | 🐛 24 | 🌐 JavaScript | 📅 2023-04-15 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,650 | 🐛 5,219 | 🌐 Go | 📅 2026-08-24 linter plugin for gulp.
+* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) ⭐ 123 | 🐛 24 | 🌐 JavaScript | 📅 2023-04-15 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,650 | 🐛 5,220 | 🌐 Go | 📅 2026-08-24 linter plugin for gulp.
 * [gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) ⭐ 80 | 🐛 15 | 🌐 JavaScript | 📅 2023-04-24 - [HTMLHint](https://github.com/yaniswang/HTMLHint) ⭐ 3,307 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-13 wrapper to validate your HTML.
 * [gulp-w3cjs](https://github.com/callumacrae/gulp-w3cjs) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-16 - Validate HTML with [w3cjs](https://github.com/thomasdavis/w3cjs) ⭐ 158 | 🐛 13 | 🌐 JavaScript | 📅 2017-06-07.
 * [gulp-coffeelint](https://github.com/janraasch/gulp-coffeelint) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-05-02 - A style checker that helps keep [CoffeeScript](https://github.com/jashkenas/coffeescript) ⭐ 16,599 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 code clean.

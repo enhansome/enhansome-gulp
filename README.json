@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             },
             {
@@ -114,13 +114,42 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32948
+                "stars": 32947
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Official Documentation"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fast Browserify Builds with Watchify",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11167738,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-09T06:30:13Z",
+                    "owner": "gulpjs",
+                    "repo": "gulp",
+                    "stars": 32947
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Gulp with Browserify"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         },
         {
           "children": [
@@ -179,7 +208,7 @@
                 "last_commit": "2025-03-05T08:57:15Z",
                 "owner": "dlmanning",
                 "repo": "gulp-sass",
-                "stars": 1552
+                "stars": 1551
               }
             },
             {
@@ -418,6 +447,28 @@
           "description": null,
           "node_type": "group",
           "title": "Transpilation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gulp-concat",
+              "description": "Concatenate files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11214300,
+                "language": "JavaScript",
+                "last_commit": "2020-06-18T22:39:54Z",
+                "owner": "gulp-community",
+                "repo": "gulp-concat",
+                "stars": 776
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Concatenation"
         },
         {
           "children": [
@@ -1157,7 +1208,7 @@
                 "last_commit": "2026-05-08T20:19:26Z",
                 "owner": "nfroidure",
                 "repo": "streamqueue",
-                "stars": 63
+                "stars": 62
               }
             }
           ],
@@ -1686,7 +1737,7 @@
                 "last_commit": "2024-04-22T23:42:34Z",
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18275
+                "stars": 18274
               }
             },
             {
@@ -1701,7 +1752,7 @@
                 "last_commit": "2025-09-28T05:06:22Z",
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5633
+                "stars": 5632
               }
             },
             {
@@ -1716,7 +1767,7 @@
                 "last_commit": "2019-09-03T21:39:46Z",
                 "owner": "este",
                 "repo": "este",
-                "stars": 5324
+                "stars": 5323
               }
             },
             {
@@ -1873,7 +1924,7 @@
                 "last_commit": "2024-01-30T08:49:40Z",
                 "owner": "yeoman",
                 "repo": "generator-webapp",
-                "stars": 3743
+                "stars": 3742
               }
             },
             {
@@ -2057,7 +2108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:09:36.581Z",
+    "last_updated": "2026-08-24T14:21:39.192Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_id": 38231111,
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",

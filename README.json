@@ -1737,7 +1737,7 @@
                 "last_commit": "2024-04-22T23:42:34Z",
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18274
+                "stars": 18273
               }
             },
             {
@@ -2108,7 +2108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:37.309Z",
+    "last_updated": "2026-08-25T14:31:22.299Z",
     "original_repository": "alferov/awesome-gulp",
     "original_repository_id": 38231111,
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",

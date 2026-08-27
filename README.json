@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-09T06:30:13Z",
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32946
+                "stars": 32947
               }
             }
           ],
@@ -138,7 +138,7 @@
                     "last_commit": "2026-02-09T06:30:13Z",
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32946
+                    "stars": 32947
                   }
                 }
               ],
@@ -902,7 +902,7 @@
                 "last_commit": "2024-12-05T14:11:33Z",
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4810
+                "stars": 4811
               }
             },
             {
@@ -2070,7 +2070,7 @@
             "last_commit": "2020-03-30T19:11:15Z",
             "owner": "laravel",
             "repo": "elixir",
-            "stars": 1067
+            "stars": 1068
           }
         },
         {
@@ -2108,9 +2108,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:30:55.738Z",
-    "original_repository": "alferov/awesome-gulp",
-    "original_repository_id": 38231111,
+    "last_updated": "2026-08-27T11:44:36.389Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 38231111,
+      "language": "JavaScript",
+      "last_commit": "2022-04-12T16:51:43Z",
+      "owner": "alferov",
+      "repo": "awesome-gulp",
+      "stars": 624
+    },
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",
     "enhanced_repository": "enhansome/enhansome-gulp",
     "enhanced_repository_description": null,

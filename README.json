@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Unused] Very old plugin search website",
+                "homepage": null,
                 "id": 15722037,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-04-27T19:27:25Z",
+                "open_issues": 0,
                 "owner": "gulpjs",
                 "repo": "plugins",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -99,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -115,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit to automate & enhance your workflow",
+                "homepage": "https://gulpjs.com",
                 "id": 11167738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
+                "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32947
+                "stars": 32946,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -140,12 +175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A toolkit to automate & enhance your workflow",
+                    "homepage": "https://gulpjs.com",
                     "id": 11167738,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-09T06:30:13Z",
+                    "open_issues": 34,
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32947
+                    "stars": 32946,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:57.113Z"
                 }
@@ -168,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cheatsheet for gulp.js",
+                "homepage": null,
                 "id": 20403186,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2016-08-28T08:20:19Z",
+                "open_issues": 4,
                 "owner": "osscafe",
                 "repo": "gulp-cheatsheet",
-                "stars": 1364
+                "stars": 1364,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -184,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playground for Gulp Recipes",
+                "homepage": null,
                 "id": 24151545,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-31T03:55:37Z",
+                "open_issues": 23,
                 "owner": "johnpapa",
                 "repo": "gulp-patterns",
-                "stars": 500
+                "stars": 500,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -213,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SASS plugin for gulp",
+                "homepage": null,
                 "id": 12511640,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-05T08:57:15Z",
+                "open_issues": 23,
                 "owner": "dlmanning",
                 "repo": "gulp-sass",
-                "stars": 1551
+                "stars": 1551,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -229,12 +284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tropical_drink: Run webpack through a stream interface",
+                "homepage": null,
                 "id": 15766529,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-07T21:22:02Z",
+                "open_issues": 55,
                 "owner": "shama",
                 "repo": "webpack-stream",
-                "stars": 1385
+                "stars": 1385,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -245,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TypeScript compiler for gulp with incremental compilation support.",
+                "homepage": null,
                 "id": 19606628,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-02T19:34:24Z",
+                "open_issues": 62,
                 "owner": "ivogabe",
                 "repo": "gulp-typescript",
-                "stars": 852
+                "stars": 852,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -261,12 +326,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pipe CSS through PostCSS processors with a single parse",
+                "homepage": null,
                 "id": 23041299,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-06T10:48:07Z",
+                "open_issues": 6,
                 "owner": "postcss",
                 "repo": "gulp-postcss",
-                "stars": 762
+                "stars": 762,
+                "topics": [
+                  "gulp-plugin",
+                  "javascript",
+                  "postcss"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -277,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A LESS plugin for Gulp",
+                "homepage": null,
                 "id": 11264371,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-06-20T16:51:24Z",
+                "open_issues": 10,
                 "owner": "gulp-community",
                 "repo": "gulp-less",
-                "stars": 558
+                "stars": 558,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -293,12 +372,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Compile Sass to CSS with Ruby Sass",
+                "homepage": null,
                 "id": 15768911,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:59:15Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-ruby-sass",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "css",
+                  "deprecated",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "ruby",
+                  "sass"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -309,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Precompile Facebook React JSX templates into JavaScript",
+                "homepage": null,
                 "id": 15592656,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-10-15T18:16:38Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-react",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -325,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coffeescript plugin for gulp",
+                "homepage": null,
                 "id": 11215042,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-12-16T18:58:21Z",
+                "open_issues": 6,
                 "owner": "gulp-community",
                 "repo": "gulp-coffee",
-                "stars": 226
+                "stars": 226,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -341,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stylus plugin for gulp",
+                "homepage": null,
                 "id": 14931804,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-30T07:50:38Z",
+                "open_issues": 2,
                 "owner": "stephenlacy",
                 "repo": "gulp-stylus",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -357,12 +464,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compass plugin for gulp",
+                "homepage": null,
                 "id": 15421313,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-09-13T02:11:53Z",
+                "open_issues": 43,
                 "owner": "appleboy",
                 "repo": "gulp-compass",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "compass",
+                  "compass-plugin",
+                  "css",
+                  "gulp-plugin",
+                  "javascript",
+                  "sass"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -380,12 +499,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp plugin for Babel",
+                "homepage": "https://babeljs.io",
                 "id": 24635108,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T18:39:23Z",
+                "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
-                "stars": 1308
+                "stars": 1308,
+                "topics": [
+                  "babel",
+                  "gulp-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -396,12 +523,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Traceur is a JavaScript.next to JavaScript-of-today compiler",
+                "homepage": null,
                 "id": 15361133,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T12:02:11Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-traceur",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "deprecated",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "npm-package",
+                  "traceur",
+                  "transpile"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -412,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED. Use gulp-postcss instead.",
+                "homepage": null,
                 "id": 22855127,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-04T07:32:51Z",
+                "open_issues": 1,
                 "owner": "MoOx",
                 "repo": "gulp-cssnext",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -428,12 +573,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Transpile ES2015 to ES5",
+                "homepage": null,
                 "id": 15598752,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-14T13:03:05Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-es6-transpiler",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "deprecated",
+                  "es2015",
+                  "gulp",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -444,12 +601,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Myth - Postprocessor that polyfills CSS",
+                "homepage": null,
                 "id": 15264893,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:53:19Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-myth",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "css",
+                  "gulp-plugin",
+                  "javascript",
+                  "myth",
+                  "nodejs",
+                  "post-processor"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -460,12 +629,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2015 generator functions to ES5",
+                "homepage": null,
                 "id": 15347727,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:54:09Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-regenerator",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "deprecated",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "regenerator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -483,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming concat middleware for gulp",
+                "homepage": null,
                 "id": 11214300,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-18T22:39:54Z",
+                "open_issues": 13,
                 "owner": "gulp-community",
                 "repo": "gulp-concat",
-                "stars": 776
+                "stars": 776,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -506,12 +691,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify PNG, JPEG, GIF and SVG images",
+                "homepage": null,
                 "id": 15533082,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-11T06:45:37Z",
+                "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1904
+                "stars": 1904,
+                "topics": [
+                  "compress-images",
+                  "gulp-plugin",
+                  "imagemin",
+                  "javascript",
+                  "minify-images",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -522,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify files with UglifyJS",
+                "homepage": null,
                 "id": 11188838,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-23T02:51:11Z",
+                "open_issues": 18,
                 "owner": "terinjokes",
                 "repo": "gulp-uglify",
-                "stars": 1212
+                "stars": 1212,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -538,12 +740,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify HTML",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 15343567,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2019-11-08T15:31:25Z",
+                "open_issues": 7,
                 "owner": "jonschlinkert",
                 "repo": "gulp-htmlmin",
-                "stars": 722
+                "stars": 722,
+                "topics": [
+                  "gulp",
+                  "gulpplugin",
+                  "html",
+                  "html-minifier",
+                  "min",
+                  "minifier",
+                  "minify",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -554,12 +770,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify css with clean-css.",
+                "homepage": null,
                 "id": 52217194,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-26T10:26:30Z",
+                "open_issues": 14,
                 "owner": "scniro",
                 "repo": "gulp-clean-css",
-                "stars": 642
+                "stars": 642,
+                "topics": [
+                  "clean-css",
+                  "gulp"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -570,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify SVG files with gulp.",
+                "homepage": null,
                 "id": 14993730,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-11T20:36:40Z",
+                "open_issues": 7,
                 "owner": "ben-eb",
                 "repo": "gulp-svgmin",
-                "stars": 339
+                "stars": 339,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -586,12 +815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minify CSS with CSSO.",
+                "homepage": null,
                 "id": 14967335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-25T19:24:18Z",
+                "open_issues": 4,
                 "owner": "ben-eb",
                 "repo": "gulp-csso",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -609,12 +843,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED. Remove unused CSS selectors.",
+                "homepage": null,
                 "id": 15266592,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-08T20:02:10Z",
+                "open_issues": 3,
                 "owner": "ben-eb",
                 "repo": "gulp-uncss",
-                "stars": 928
+                "stars": 928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -625,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create icon fonts from several SVG icons",
+                "homepage": null,
                 "id": 15691861,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-08T19:24:05Z",
+                "open_issues": 21,
                 "owner": "nfroidure",
                 "repo": "gulp-iconfont",
-                "stars": 849
+                "stars": 849,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -641,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combine svg files into one with symbol elements",
+                "homepage": "https://www.npmjs.com/package/gulp-svgstore",
                 "id": 19895590,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-07T07:25:05Z",
+                "open_issues": 1,
                 "owner": "w0rm",
                 "repo": "gulp-svgstore",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -657,12 +906,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gulp-responsive generates images at different sizes",
+                "homepage": "https://npmjs.com/gulp-responsive",
                 "id": 25786032,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-04T08:26:06Z",
+                "open_issues": 44,
                 "owner": "mahnunchik",
                 "repo": "gulp-responsive",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "gulp",
+                  "responsive",
+                  "responsive-images",
+                  "sharp"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -673,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gulp's task for transform all resources found in a CSS (those within a url( ... ) declaration) into base64-encoded data URI strings",
+                "homepage": null,
                 "id": 18912997,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-04T22:58:14Z",
+                "open_issues": 12,
                 "owner": "zckrs",
                 "repo": "gulp-css-base64",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -689,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A gulp plugin for converting SVGs to PNGs.",
+                "homepage": null,
                 "id": 16745869,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-28T17:16:12Z",
+                "open_issues": 19,
                 "owner": "akoenig",
                 "repo": "gulp-svg2png",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -712,12 +981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wire Bower dependencies to your source code.",
+                "homepage": null,
                 "id": 11794992,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-17T21:20:53Z",
+                "open_issues": 33,
                 "owner": "taptapship",
                 "repo": "wiredep",
-                "stars": 1143
+                "stars": 1143,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -728,12 +1002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A javascript, stylesheet and webcomponent injection plugin for Gulp",
+                "homepage": null,
                 "id": 15705923,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-28T21:56:27Z",
+                "open_issues": 63,
                 "owner": "klei",
                 "repo": "gulp-inject",
-                "stars": 807
+                "stars": 807,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -744,12 +1023,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.",
+                "homepage": null,
                 "id": 15972887,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-27T18:50:12Z",
+                "open_issues": 38,
                 "owner": "jonkemp",
                 "repo": "gulp-useref",
-                "stars": 700
+                "stars": 700,
+                "topics": [
+                  "gulp-plugin",
+                  "useref"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -767,12 +1054,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Concatenates and registers AngularJS templates in the $templateCache.",
+                "homepage": null,
                 "id": 15656979,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-17T14:01:50Z",
+                "open_issues": 6,
                 "owner": "miickel",
                 "repo": "gulp-angular-templatecache",
-                "stars": 523
+                "stars": 523,
+                "topics": [
+                  "angularjs",
+                  "gulp",
+                  "gulp-plugin",
+                  "javascript",
+                  "templatecache"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -783,12 +1081,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp plugin for compiling Pug templates",
+                "homepage": null,
                 "id": 11210841,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-12T13:05:11Z",
+                "open_issues": 4,
                 "owner": "gulp-community",
                 "repo": "gulp-pug",
-                "stars": 517
+                "stars": 517,
+                "topics": [
+                  "gulp",
+                  "gulp-plugin",
+                  "pug"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -799,12 +1106,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Render/precompile Lodash templates",
+                "homepage": null,
                 "id": 15206936,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-09T11:29:06Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-template",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "gulp-plugin",
+                  "javascript",
+                  "lodash",
+                  "nodejs",
+                  "template",
+                  "underscore"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -815,12 +1134,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown to HTML",
+                "homepage": null,
                 "id": 15540190,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-03T12:57:46Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-markdown",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "gulp-plugin",
+                  "html",
+                  "javascript",
+                  "markdown",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -831,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handlebars plugin for gulp",
+                "homepage": null,
                 "id": 15064567,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-01T22:04:47Z",
+                "open_issues": 16,
                 "owner": "lazd",
                 "repo": "gulp-handlebars",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -847,12 +1182,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precompile Nunjucks templates",
+                "homepage": null,
                 "id": 15527742,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-14T23:00:47Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-nunjucks",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "nunjucks",
+                  "precompile",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -863,12 +1210,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sane Gulp plugin to compile Handlebars templates. Useful as a static site generator.",
+                "homepage": "http://npm.im/gulp-hb",
                 "id": 19895778,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-28T17:15:11Z",
+                "open_issues": 4,
                 "owner": "shannonmoeller",
                 "repo": "gulp-hb",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "gulp",
+                  "handlebars",
+                  "hbs",
+                  "nodejs",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -879,12 +1237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gulp plugin for riot",
+                "homepage": null,
                 "id": 29805080,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-07T02:53:30Z",
+                "open_issues": 3,
                 "owner": "e-jigsaw",
                 "repo": "gulp-riot",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -895,12 +1258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swig template compiler for Gulp",
+                "homepage": null,
                 "id": 13939379,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-30T17:23:49Z",
+                "open_issues": 23,
                 "owner": "colynb",
                 "repo": "gulp-swig",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -911,12 +1279,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Precompile Dust templates",
+                "homepage": null,
                 "id": 15557148,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T11:48:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-dust",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "deprecated",
+                  "dust",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "precompile",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -927,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated Gulp plugin for remark — please use npm scripts and the like",
+                "homepage": null,
                 "id": 47066946,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-01T11:43:28Z",
+                "open_issues": 0,
                 "owner": "remarkjs",
                 "repo": "gulp-remark",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -950,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated linting of Cascading Stylesheets",
+                "homepage": "http://csslint.net",
                 "id": 1861575,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-05T14:11:33Z",
+                "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4811
+                "stars": 4811,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -966,12 +1357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gulp plugin for identifying and reporting on patterns found in ECMAScript/JavaScript code.",
+                "homepage": null,
                 "id": 15497803,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-23T16:20:19Z",
+                "open_issues": 32,
                 "owner": "adametry",
                 "repo": "gulp-eslint",
-                "stars": 566
+                "stars": 566,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -982,12 +1378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSHint plugin for gulp",
+                "homepage": null,
                 "id": 11985855,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-31T22:44:27Z",
+                "open_issues": 15,
                 "owner": "spalger",
                 "repo": "gulp-jshint",
-                "stars": 417
+                "stars": 417,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -998,12 +1399,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A build tool for checking your HTML templates for unused CSS classes",
+                "homepage": null,
                 "id": 23102996,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-21T14:16:12Z",
+                "open_issues": 5,
                 "owner": "zalando",
                 "repo": "gulp-check-unused-css",
-                "stars": 355
+                "stars": 355,
+                "topics": [
+                  "utilities"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1014,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check JavaScript code style with jscs",
+                "homepage": null,
                 "id": 15463351,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-02-16T21:19:22Z",
+                "open_issues": 13,
                 "owner": "jscs-dev",
                 "repo": "gulp-jscs",
-                "stars": 311
+                "stars": 311,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1030,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript linter plugin for Gulp",
+                "homepage": null,
                 "id": 17189869,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-15T17:55:03Z",
+                "open_issues": 24,
                 "owner": "panuhorsmalahti",
                 "repo": "gulp-tslint",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1046,12 +1464,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 15893038,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-24T19:16:45Z",
+                "open_issues": 15,
                 "owner": "bezoerb",
                 "repo": "gulp-htmlhint",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "gulp-plugin",
+                  "htmlhint"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1062,12 +1488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":vertical_traffic_light: w3cjs wrapper for gulp to validate your HTML",
+                "homepage": null,
                 "id": 15512955,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-16T19:54:59Z",
+                "open_issues": 0,
                 "owner": "callumacrae",
                 "repo": "gulp-w3cjs",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1078,12 +1509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoffeeLint plugin for gulp.",
+                "homepage": "http://www.coffeelint.org/",
                 "id": 15373314,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-05-02T08:02:41Z",
+                "open_issues": 0,
                 "owner": "janraasch",
                 "repo": "gulp-coffeelint",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1094,12 +1530,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint your .less files from Gulp with lesshint.",
+                "homepage": null,
                 "id": 37257522,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-30T18:38:48Z",
+                "open_issues": 2,
                 "owner": "lesshint",
                 "repo": "gulp-lesshint",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "gulp",
+                  "lesshint"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1117,12 +1561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keep multiple browsers & devices in sync when building websites. https://browsersync.io",
+                "homepage": "https://discord.gg/2d2xUThp",
                 "id": 13527761,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-09T08:29:15Z",
+                "open_issues": 575,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12291
+                "stars": 12291,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1133,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gulp plugin for livereload",
+                "homepage": null,
                 "id": 14869593,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-09-30T19:03:14Z",
+                "open_issues": 31,
                 "owner": "gulp-community",
                 "repo": "gulp-livereload",
-                "stars": 762
+                "stars": 762,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1156,12 +1610,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Only pass through changed files",
+                "homepage": null,
                 "id": 16014885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-07T11:06:24Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-changed",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1172,12 +1635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple in-memory file cache for gulp",
+                "homepage": null,
                 "id": 15873537,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-08T18:01:59Z",
+                "open_issues": 9,
                 "owner": "gulp-community",
                 "repo": "gulp-cached",
-                "stars": 453
+                "stars": 453,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1188,12 +1656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pass through newer source files only",
+                "homepage": "https://npmjs.org/package/gulp-newer",
                 "id": 15983348,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-11-26T14:19:52Z",
+                "open_issues": 29,
                 "owner": "tschaub",
                 "repo": "gulp-newer",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1204,12 +1677,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for gulp that remembers and recalls files passed through it",
+                "homepage": null,
                 "id": 18271693,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-14T11:49:16Z",
+                "open_issues": 0,
                 "owner": "ahaurw01",
                 "repo": "gulp-remember",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "gulp",
+                  "remember-files",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1227,12 +1709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a series of dependent gulp tasks in order",
+                "homepage": null,
                 "id": 15992245,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-01-03T16:21:47Z",
+                "open_issues": 0,
                 "owner": "OverZealous",
                 "repo": "run-sequence",
-                "stars": 954
+                "stars": 954,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1243,12 +1730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conditionally run a task",
+                "homepage": null,
                 "id": 15712612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-19T17:01:11Z",
+                "open_issues": 9,
                 "owner": "robrich",
                 "repo": "gulp-if",
-                "stars": 645
+                "stars": 645,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1259,12 +1751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Merge multiple streams into one interleaved stream",
+                "homepage": null,
                 "id": 10579821,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-20T04:46:40Z",
+                "open_issues": 0,
                 "owner": "grncdr",
                 "repo": "merge-stream",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1275,12 +1772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pipe queued streams progressively.",
+                "homepage": null,
                 "id": 15822241,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-08T20:19:26Z",
+                "open_issues": 6,
                 "owner": "nfroidure",
                 "repo": "streamqueue",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1298,12 +1800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gulp plugin to send messages based on Vinyl Files or Errors to Mac OS X, Linux or Windows using the node-notifier module. Fallbacks to Growl or simply logging",
+                "homepage": null,
                 "id": 15743069,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:08:34Z",
+                "open_issues": 38,
                 "owner": "mikaelbr",
                 "repo": "gulp-notify",
-                "stars": 590
+                "stars": 590,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1314,12 +1821,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display the size of your project",
+                "homepage": null,
                 "id": 15616373,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-24T06:31:41Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-size",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "gulp-plugin",
+                  "gzip",
+                  "javascript",
+                  "nodejs",
+                  "size"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1330,12 +1848,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debug Vinyl file streams to see what files are run through your Gulp pipeline",
+                "homepage": null,
                 "id": 15758162,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-10T18:53:09Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-debug",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "debug",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "vinyl"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1346,12 +1875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍺 Better Error Reporting for Gulp",
+                "homepage": null,
                 "id": 85490463,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-27T18:58:52Z",
+                "open_issues": 0,
                 "owner": "lordgiotto",
                 "repo": "gulp-beer",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1369,12 +1903,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Mocha tests",
+                "homepage": null,
                 "id": 15194907,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-19T21:08:55Z",
+                "open_issues": 11,
                 "owner": "sindresorhus",
                 "repo": "gulp-mocha",
-                "stars": 378
+                "stars": 378,
+                "topics": [
+                  "gulp-plugin",
+                  "javascript",
+                  "mocha",
+                  "nodejs",
+                  "test-runner"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1385,12 +1930,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Example of using Karma with Gulp.",
+                "homepage": null,
                 "id": 18228167,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-04T18:29:37Z",
+                "open_issues": 12,
                 "owner": "karma-runner",
                 "repo": "gulp-karma",
-                "stars": 307
+                "stars": 307,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1401,12 +1951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gulp wrapper for protractor tests",
+                "homepage": null,
                 "id": 15554605,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-25T21:01:57Z",
+                "open_issues": 20,
                 "owner": "mllrsohn",
                 "repo": "gulp-protractor",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1417,12 +1972,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Jasmine tests in Node.js",
+                "homepage": null,
                 "id": 15619141,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-03T19:38:45Z",
+                "open_issues": 13,
                 "owner": "sindresorhus",
                 "repo": "gulp-jasmine",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "gulp-plugin",
+                  "jasmine",
+                  "javascript",
+                  "nodejs",
+                  "test-runner"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1433,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gulp coverage reporting for Node.js that is independent of the test runner",
+                "homepage": null,
                 "id": 15891320,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-25T01:05:16Z",
+                "open_issues": 13,
                 "owner": "dylanb",
                 "repo": "gulp-coverage",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1449,12 +2020,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Run AVA tests",
+                "homepage": "https://ava.li",
                 "id": 42039438,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-05T12:11:43Z",
+                "open_issues": 2,
                 "owner": "avajs",
                 "repo": "gulp-ava",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "ava",
+                  "gulp",
+                  "gulp-plugin",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1472,12 +2053,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Parse CSS and add vendor prefixes to rules by Can I Use",
+                "homepage": "https://twitter.com/autoprefixer",
                 "id": 8768406,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T11:41:59Z",
+                "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22237
+                "stars": 22237,
+                "topics": [
+                  "css",
+                  "postcss-plugins",
+                  "prefixer"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1488,12 +2078,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static asset revisioning by appending content hash to filenames: `unicorn.css` → `unicorn-d41d8cd98f.css`",
+                "homepage": null,
                 "id": 15210616,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-31T05:27:23Z",
+                "open_issues": 16,
                 "owner": "sindresorhus",
                 "repo": "gulp-rev",
-                "stars": 1536
+                "stars": 1536,
+                "topics": [
+                  "gulp-plugin",
+                  "hash",
+                  "javascript",
+                  "manifest",
+                  "nodejs",
+                  "rev"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1504,12 +2106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delete files and directories",
+                "homepage": null,
                 "id": 21078071,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T15:58:02Z",
+                "open_issues": 16,
                 "owner": "sindresorhus",
                 "repo": "del",
-                "stars": 1344
+                "stars": 1344,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1520,12 +2127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sourcemap support for gulpjs.",
+                "homepage": null,
                 "id": 17343493,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-11T17:35:33Z",
+                "open_issues": 27,
                 "owner": "gulp-sourcemaps",
                 "repo": "gulp-sourcemaps",
-                "stars": 1095
+                "stars": 1095,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1536,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[deprecated] - See https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5",
+                "homepage": null,
                 "id": 11214932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-31T11:18:21Z",
+                "open_issues": 0,
                 "owner": "gulpjs",
                 "repo": "gulp-util",
-                "stars": 822
+                "stars": 822,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1552,12 +2169,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fixing Node pipes",
+                "homepage": null,
                 "id": 15672197,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-27T16:39:27Z",
+                "open_issues": 19,
                 "owner": "floatdrop",
                 "repo": "gulp-plumber",
-                "stars": 798
+                "stars": 798,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1568,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically load in gulp plugins",
+                "homepage": "https://github.com/jackfranklin/gulp-load-plugins",
                 "id": 14910179,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-07T03:59:14Z",
+                "open_issues": 1,
                 "owner": "jackfranklin",
                 "repo": "gulp-load-plugins",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1584,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rename files easily",
+                "homepage": null,
                 "id": 14921398,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-16T05:30:05Z",
+                "open_issues": 11,
                 "owner": "hparra",
                 "repo": "gulp-rename",
-                "stars": 686
+                "stars": 686,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1600,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MAINTAINER WANTED ~ [gulp-file-include] a gulp plugin for file include",
+                "homepage": null,
                 "id": 15664331,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-27T16:00:36Z",
+                "open_issues": 0,
                 "owner": "haoxins",
                 "repo": "gulp-file-include",
-                "stars": 679
+                "stars": 679,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1616,12 +2253,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gulp 4 plugin to publish contents to Github pages",
+                "homepage": "https://pages.github.com/",
                 "id": 17558946,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-14T16:57:26Z",
+                "open_issues": 12,
                 "owner": "shinnn",
                 "repo": "gulp-gh-pages",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "deployment",
+                  "git",
+                  "github",
+                  "github-pages",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "release-automation",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1632,12 +2284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Getting all main bower files",
+                "homepage": null,
                 "id": 21268135,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-09-21T07:19:41Z",
+                "open_issues": 8,
                 "owner": "ck86",
                 "repo": "main-bower-files",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1648,12 +2305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A string replace plugin for gulp",
+                "homepage": null,
                 "id": 15092603,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-17T16:36:56Z",
+                "open_issues": 15,
                 "owner": "lazd",
                 "repo": "gulp-replace",
-                "stars": 495
+                "stars": 495,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1664,12 +2326,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git plugin for gulp (gulpjs.com)",
+                "homepage": null,
                 "id": 15657634,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-24T16:28:51Z",
+                "open_issues": 1,
                 "owner": "stephenlacy",
                 "repo": "gulp-git",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "git",
+                  "gulp"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1680,12 +2350,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filter files in a `vinyl` stream",
+                "homepage": null,
                 "id": 15827909,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-17T06:28:33Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-filter",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "filter",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1696,12 +2376,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inline linked css in an html file. Useful for emails.",
+                "homepage": null,
                 "id": 16658637,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-19T03:49:30Z",
+                "open_issues": 28,
                 "owner": "jonkemp",
                 "repo": "gulp-inline-css",
-                "stars": 271
+                "stars": 271,
+                "topics": [
+                  "gulp-plugin",
+                  "inline-css"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1712,12 +2400,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZIP compress files",
+                "homepage": null,
                 "id": 15377028,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-09T03:08:14Z",
+                "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "gulp-zip",
-                "stars": 271
+                "stars": 271,
+                "topics": [
+                  "compression",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "zip"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1728,12 +2427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":pushpin: Add angularjs dependency injection annotations with ng-annotate",
+                "homepage": null,
                 "id": 19405597,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2020-08-12T20:17:09Z",
+                "open_issues": 0,
                 "owner": "Kagami",
                 "repo": "gulp-ng-annotate",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1744,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bump any version in any file which supports semver with gulp (gulpjs.com)",
+                "homepage": null,
                 "id": 15577314,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-25T03:29:36Z",
+                "open_issues": 1,
                 "owner": "stephenlacy",
                 "repo": "gulp-bump",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1760,12 +2469,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strip console, alert, and debugger statements from JavaScript code",
+                "homepage": "https://github.com/sindresorhus/strip-debug",
                 "id": 15830452,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-11T17:50:35Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-strip-debug",
-                "stars": 249
+                "stars": 249,
+                "topics": [
+                  "ast",
+                  "debug",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "strip"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1776,12 +2497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "exec plugin for gulp",
+                "homepage": null,
                 "id": 13512353,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-19T16:59:49Z",
+                "open_issues": 4,
                 "owner": "robrich",
                 "repo": "gulp-exec",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1792,12 +2518,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.",
+                "homepage": null,
                 "id": 16710760,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-09-02T13:02:36Z",
+                "open_issues": 2,
                 "owner": "unlight",
                 "repo": "gulp-cssimport",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "gulp-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1808,12 +2541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "require or eval inside gulp",
+                "homepage": null,
                 "id": 52811272,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-31T21:45:50Z",
+                "open_issues": 6,
                 "owner": "node-eval",
                 "repo": "gulp-eval",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -1837,12 +2575,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web Starter Kit - a workflow for multi-device websites",
+                "homepage": "http://developers.google.com/web/starter-kit",
                 "id": 18511024,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-22T23:42:34Z",
+                "open_issues": 74,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18274
+                "stars": 18274,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1853,12 +2596,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Laravel Boilerplate Project - https://laravel-boilerplate.com",
+                "homepage": "https://rappasoft.com",
                 "id": 30171828,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-09-28T05:06:22Z",
+                "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5632
+                "stars": 5632,
+                "topics": [
+                  "boilerplate",
+                  "laravel",
+                  "laravel-boilerplate",
+                  "php",
+                  "skeleton",
+                  "starter-project"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1869,12 +2624,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repo is suspended.",
+                "homepage": "https://typescript.fun/",
                 "id": 8230809,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-09-03T21:39:46Z",
+                "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5323
+                "stars": 5323,
+                "topics": [
+                  "graphql",
+                  "nextjs",
+                  "prisma",
+                  "react-native-web",
+                  "reactjs",
+                  "relay",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1885,12 +2653,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A starting point for Polymer apps",
+                "homepage": null,
                 "id": 34105868,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-28T09:49:35Z",
+                "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2430
+                "stars": 2430,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1901,12 +2674,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify and utilizing best practices.",
+                "homepage": null,
                 "id": 22480578,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-09-14T03:58:00Z",
+                "open_issues": 30,
                 "owner": "jakemmarsh",
                 "repo": "angularjs-gulp-browserify-boilerplate",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1917,12 +2695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, mobile-first boilerplate for front-end web developers.",
+                "homepage": "http://cferdinandi.github.io/kraken",
                 "id": 8079423,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-07-28T18:10:52Z",
+                "open_issues": 6,
                 "owner": "cferdinandi",
                 "repo": "kraken",
-                "stars": 809
+                "stars": 809,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1933,12 +2716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start a responsive html5 site with postcss and browser-sync",
+                "homepage": "http://mn-ml.cc",
                 "id": 6196997,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-05T17:23:28Z",
+                "open_issues": 4,
                 "owner": "mrmrs",
                 "repo": "mnml",
-                "stars": 702
+                "stars": 702,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1949,12 +2737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate Hapi server example. Node.js, Hapi, and Swig.",
+                "homepage": null,
                 "id": 15090671,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-04-04T16:08:00Z",
+                "open_issues": 0,
                 "owner": "poeticninja",
                 "repo": "hapi-ninja",
-                "stars": 375
+                "stars": 375,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1965,12 +2758,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Yet another react starterkit. Including react-router, reflux, jest, webpack, gulp and stylus.",
+                "homepage": "http://wbkd.github.io/react-starterkit",
                 "id": 27635242,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-30T13:59:40Z",
+                "open_issues": 2,
                 "owner": "wbkd",
                 "repo": "react-starterkit",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1981,12 +2779,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frontend boilerplate and framework based on gulp, pug, stylus and babel",
+                "homepage": "https://zoxon.github.io/gulp-front",
                 "id": 17591328,
                 "language": "Pug",
+                "license": "MIT",
                 "last_commit": "2022-12-08T00:55:30Z",
+                "open_issues": 12,
                 "owner": "zoxon",
                 "repo": "gulp-front",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "boilerplate",
+                  "component-library",
+                  "css-framework",
+                  "frontend",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -1997,12 +2806,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate to kickstart creating Gulp plugins",
+                "homepage": null,
                 "id": 16595453,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-02T17:34:55Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-plugin-boilerplate",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "boilerplate",
+                  "gulp",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2013,12 +2833,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate for frontend projects powered by Gulp, HTML5 bolierplate, Sass, PostCss and Webpack(for Babel transpiling).",
+                "homepage": null,
                 "id": 95895255,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-04-11T19:40:01Z",
+                "open_issues": 0,
                 "owner": "darktasevski",
                 "repo": "Frontend-Starter-Kit",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "automation",
+                  "css",
+                  "development-workflow",
+                  "eslint-config",
+                  "frontend",
+                  "gulp",
+                  "gulp-tasks",
+                  "postcss",
+                  "prettier",
+                  "sass",
+                  "scss",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -2036,12 +2874,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gulp.js generator for modern webapps",
+                "homepage": null,
                 "id": 16458672,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-30T08:49:40Z",
+                "open_issues": 17,
                 "owner": "yeoman",
                 "repo": "generator-webapp",
-                "stars": 3742
+                "stars": 3742,
+                "topics": [
+                  "gulp",
+                  "yeoman"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2052,12 +2898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yeoman generator for AngularJS with GulpJS [UNMAINTAINED next iteration is FountainJS]",
+                "homepage": "http://fountainjs.io",
                 "id": 19238853,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-16T16:56:04Z",
+                "open_issues": 160,
                 "owner": "Swiip",
                 "repo": "generator-gulp-angular",
-                "stars": 3684
+                "stars": 3684,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2068,12 +2919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Yeoman Generator for facebook's React library. It includes gulp, browserify, livereload and famous official Twitter bootstrap Sass version",
+                "homepage": null,
                 "id": 17617637,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-10T10:43:35Z",
+                "open_issues": 18,
                 "owner": "randylien",
                 "repo": "generator-react-gulp-browserify",
-                "stars": 419
+                "stars": 419,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2084,12 +2940,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Yeoman generator for Jekyll to rapidly build sites using Gulp",
+                "homepage": null,
                 "id": 16178790,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-08T17:23:23Z",
+                "open_issues": 8,
                 "owner": "sondr3",
                 "repo": "generator-jekyllized",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "gulp",
+                  "jekyll",
+                  "rapid-development",
+                  "yeoman",
+                  "yeoman-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2100,12 +2967,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Yeoman generator involving AngularJS, Gulp and Browserify",
+                "homepage": null,
                 "id": 22109825,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-08-13T14:52:44Z",
+                "open_issues": 8,
                 "owner": "jgoux",
                 "repo": "generator-angulpify",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2116,12 +2988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Yeoman generator for fast hybrid app development that stays out of your way",
+                "homepage": null,
                 "id": 31390825,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-16T13:43:44Z",
+                "open_issues": 9,
                 "owner": "tmaximini",
                 "repo": "generator-ionic-gulp",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2132,12 +3009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yeoman generator for Bootstrap, Gulp & libsass (gulp-sass).",
+                "homepage": null,
                 "id": 19064202,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-06-13T21:13:21Z",
+                "open_issues": 3,
                 "owner": "niallobrien",
                 "repo": "generator-gulp-bootstrap",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2148,12 +3030,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaffold out a Gulp plugin boilerplate",
+                "homepage": "https://github.com/sindresorhus/gulp-plugin-boilerplate",
                 "id": 16596700,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-01T10:53:31Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "generator-gulp-plugin-boilerplate",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "gulp",
+                  "gulp-plugin",
+                  "javascript",
+                  "nodejs",
+                  "scaffold",
+                  "yeoman-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             },
@@ -2164,12 +3058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a Node.js module with yo, including gulp and Mocha unit tests.",
+                "homepage": null,
                 "id": 16631066,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-07-20T02:21:16Z",
+                "open_issues": 9,
                 "owner": "youngmountain",
                 "repo": "generator-node-gulp",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
             }
@@ -2191,12 +3090,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fluent API for Gulp.",
+            "homepage": null,
             "id": 24749463,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-30T19:11:15Z",
+            "open_issues": 70,
             "owner": "laravel",
             "repo": "elixir",
-            "stars": 1068
+            "stars": 1068,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
         },
@@ -2207,12 +3111,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] Gulp as an app",
+            "homepage": null,
             "id": 19875012,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-24T07:03:13Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-app",
-            "stars": 951
+            "stars": 951,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
         },
@@ -2223,12 +3132,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generic Gulp tasks used in Lost My Name components and projects",
+            "homepage": null,
             "id": 29873901,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-29T15:15:35Z",
+            "open_issues": 7,
             "owner": "Lostmyname",
             "repo": "lmn-gulp-tasks",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
         }
@@ -2237,15 +3151,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:57.113Z",
+    "last_updated": "2026-08-29T04:38:23.170Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",
+      "homepage": null,
       "id": 38231111,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2022-04-12T16:51:43Z",
+      "open_issues": 4,
       "owner": "alferov",
       "repo": "awesome-gulp",
-      "stars": 624
+      "stars": 624,
+      "topics": [
+        "automation",
+        "awesome-list",
+        "gulp",
+        "gulp-plugins"
+      ]
     },
     "original_repository_sha": "d88ab8cfd759bc3becd73b90996f08ac49f4d32a",
     "enhanced_repository": "enhansome/enhansome-gulp",

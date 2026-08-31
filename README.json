@@ -728,7 +728,7 @@
                 "open_issues": 18,
                 "owner": "terinjokes",
                 "repo": "gulp-uglify",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 575,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12291,
+                "stars": 12292,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22237,
+                "stars": 22235,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2359,7 +2359,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-filter",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "filter",
                   "gulp-plugin",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:48:13.919Z",
+    "last_updated": "2026-08-31T19:42:46.449Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

@@ -293,7 +293,7 @@
                 "open_issues": 55,
                 "owner": "shama",
                 "repo": "webpack-stream",
-                "stars": 1385,
+                "stars": 1384,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -508,7 +508,7 @@
                 "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
-                "stars": 1308,
+                "stars": 1307,
                 "topics": [
                   "babel",
                   "gulp-plugin"
@@ -700,7 +700,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1903,
+                "stars": 1902,
                 "topics": [
                   "compress-images",
                   "gulp-plugin",
@@ -1063,7 +1063,7 @@
                 "open_issues": 6,
                 "owner": "miickel",
                 "repo": "gulp-angular-templatecache",
-                "stars": 523,
+                "stars": 522,
                 "topics": [
                   "angularjs",
                   "gulp",
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22234,
+                "stars": 22233,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -3099,7 +3099,7 @@
             "open_issues": 70,
             "owner": "laravel",
             "repo": "elixir",
-            "stars": 1068,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:11:21.479Z",
+    "last_updated": "2026-09-05T16:18:04.764Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4811,
+                "stars": 4812,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22233,
+                "stars": 22232,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5631,
+                "stars": 5630,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -2725,7 +2725,7 @@
                 "open_issues": 4,
                 "owner": "mrmrs",
                 "repo": "mnml",
-                "stars": 702,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2883,7 +2883,7 @@
                 "open_issues": 17,
                 "owner": "yeoman",
                 "repo": "generator-webapp",
-                "stars": 3740,
+                "stars": 3739,
                 "topics": [
                   "gulp",
                   "yeoman"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:18:04.764Z",
+    "last_updated": "2026-09-06T16:28:46.142Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

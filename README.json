@@ -1387,7 +1387,7 @@
                 "open_issues": 15,
                 "owner": "spalger",
                 "repo": "gulp-jshint",
-                "stars": 417,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22232,
+                "stars": 22231,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2087,7 +2087,7 @@
                 "open_issues": 16,
                 "owner": "sindresorhus",
                 "repo": "gulp-rev",
-                "stars": 1536,
+                "stars": 1535,
                 "topics": [
                   "gulp-plugin",
                   "hash",
@@ -2584,7 +2584,7 @@
                 "open_issues": 74,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18272,
+                "stars": 18271,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5630,
+                "stars": 5629,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -2662,7 +2662,7 @@
                 "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2430,
+                "stars": 2429,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2883,7 +2883,7 @@
                 "open_issues": 17,
                 "owner": "yeoman",
                 "repo": "generator-webapp",
-                "stars": 3739,
+                "stars": 3737,
                 "topics": [
                   "gulp",
                   "yeoman"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:50.644Z",
+    "last_updated": "2026-09-08T17:35:17.933Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

@@ -1,8 +1,8 @@
 # Awesome Gulp with stars
 
-> A curated list of awesome [gulp](https://github.com/gulpjs/gulp) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 resources, plugins, and boilerplates for a better development workflow automation.
+> A curated list of awesome [gulp](https://github.com/gulpjs/gulp) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 resources, plugins, and boilerplates for a better development workflow automation.
 
-*Looking for something else? Take a look at other [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 504,199 | 🐛 106 | 📅 2026-09-02.*
+*Looking for something else? Take a look at other [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 504,478 | 🐛 106 | 📅 2026-09-02.*
 
 ## Contribution
 
@@ -53,7 +53,7 @@
 
 ### General Resources
 
-* [Github Repository](https://github.com/gulpjs/gulp) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [Github Repository](https://github.com/gulpjs/gulp) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
 * [Blacklisted Plugins](https://github.com/gulpjs/plugins/blob/master/src/blackList.json) ⚠️ Archived
 * [Official Website](http://gulpjs.com/)
 * [Plugin Registry](http://gulpjs.com/plugins/)
@@ -61,11 +61,11 @@
 
 ### Official Documentation
 
-* [Getting Started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
-* [API Documentation](https://github.com/gulpjs/gulp/blob/master/docs/API.md) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
-* [CLI Documentation](https://github.com/gulpjs/gulp/tree/master/docs#articles) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
-* [Writing a Plugin](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
-* [Recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [Getting Started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [API Documentation](https://github.com/gulpjs/gulp/blob/master/docs/API.md) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [CLI Documentation](https://github.com/gulpjs/gulp/tree/master/docs#articles) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [Writing a Plugin](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [Recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
 
 ### Community
 
@@ -96,7 +96,7 @@
 
 #### Gulp with Browserify
 
-* [Fast Browserify Builds with Watchify](https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md) ⭐ 32,941 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
+* [Fast Browserify Builds with Watchify](https://github.com/gulpjs/gulp/blob/master/docs/recipes/fast-browserify-builds-with-watchify.md) ⭐ 32,940 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09
 * [Gulp + Browserify, the Gulp-y Way](https://medium.com/@sogko/gulp-browserify-the-gulp-y-way-bb359b3f9623)
 * [Gulp + Browserify](https://viget.com/extend/gulp-browserify-starter-faq)
 
@@ -129,27 +129,27 @@
 
 ### Miscellaneous Resources
 
-* [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet) ⭐ 1,364 | 🐛 4 | 🌐 CoffeeScript | 📅 2016-08-28
+* [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet) ⭐ 1,363 | 🐛 4 | 🌐 CoffeeScript | 📅 2016-08-28
 * [Playground for Gulp Recipes](https://github.com/johnpapa/gulp-patterns) ⭐ 499 | 🐛 23 | 🌐 JavaScript | 📅 2018-10-31
 
 ## Plugins
 
 ### Compilation
 
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) ⭐ 1,551 | 🐛 23 | 🌐 JavaScript | 📅 2025-03-05 - Sass → CSS with [libsass](https://github.com/sass/libsass) ⚠️ Archived.
-* [webpack-stream](https://github.com/shama/webpack-stream) ⭐ 1,384 | 🐛 55 | 🌐 JavaScript | 📅 2021-11-07 - Run [webpack](https://github.com/webpack/webpack) ⭐ 65,963 | 🐛 125 | 🌐 JavaScript | 📅 2026-09-08 as a stream to conveniently integrate with gulp.
-* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) ⭐ 852 | 🐛 62 | 🌐 JavaScript | 📅 2023-02-02 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,988 | 🐛 5,056 | 🌐 Go | 📅 2026-09-05 → JavaScript.
+* [gulp-sass](https://github.com/dlmanning/gulp-sass) ⭐ 1,550 | 🐛 23 | 🌐 JavaScript | 📅 2025-03-05 - Sass → CSS with [libsass](https://github.com/sass/libsass) ⚠️ Archived.
+* [webpack-stream](https://github.com/shama/webpack-stream) ⭐ 1,384 | 🐛 55 | 🌐 JavaScript | 📅 2021-11-07 - Run [webpack](https://github.com/webpack/webpack) ⭐ 65,948 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-09 as a stream to conveniently integrate with gulp.
+* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) ⭐ 852 | 🐛 62 | 🌐 JavaScript | 📅 2023-02-02 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,983 | 🐛 5,037 | 🌐 Go | 📅 2026-09-09 → JavaScript.
 * [gulp-postcss](https://github.com/postcss/gulp-postcss) ⭐ 762 | 🐛 6 | 🌐 JavaScript | 📅 2024-02-06 - Pipe CSS through [PostCSS](https://github.com/postcss/postcss) ⭐ 28,974 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-08 processors with a single parse.
-* [gulp-less](https://github.com/plus3network/gulp-less) ⭐ 558 | 🐛 10 | 🌐 JavaScript | 📅 2021-06-20 - [Less](https://github.com/less/less.js) ⭐ 17,025 | 🐛 183 | 🌐 JavaScript | 📅 2026-09-07 → CSS.
+* [gulp-less](https://github.com/plus3network/gulp-less) ⭐ 558 | 🐛 10 | 🌐 JavaScript | 📅 2021-06-20 - [Less](https://github.com/less/less.js) ⭐ 17,025 | 🐛 184 | 🌐 JavaScript | 📅 2026-09-07 → CSS.
 * [gulp-ruby-sass](https://github.com/sindresorhus/gulp-ruby-sass) ⚠️ Archived - Sass → CSS with Ruby Sass.
-* [gulp-react](https://github.com/sindresorhus/gulp-react) ⚠️ Archived - Facebook [React](https://github.com/facebook/react) ⭐ 249,660 | 🐛 1,353 | 🌐 JavaScript | 📅 2026-09-08 JSX templates → JavaScript.
-* [gulp-coffee](https://github.com/contra/gulp-coffee) ⭐ 225 | 🐛 6 | 🌐 JavaScript | 📅 2020-12-16 - [Coffeescript](https://github.com/jashkenas/coffeescript) ⭐ 16,598 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 → JavaScript.
-* [gulp-stylus](https://github.com/stevelacy/gulp-stylus) ⭐ 220 | 🐛 2 | 🌐 JavaScript | 📅 2023-08-30 - [Stylus](https://github.com/stylus/stylus) ⭐ 11,331 | 🐛 282 | 🌐 JavaScript | 📅 2025-04-24 → CSS.
+* [gulp-react](https://github.com/sindresorhus/gulp-react) ⚠️ Archived - Facebook [React](https://github.com/facebook/react) ⭐ 249,679 | 🐛 1,349 | 🌐 JavaScript | 📅 2026-09-09 JSX templates → JavaScript.
+* [gulp-coffee](https://github.com/contra/gulp-coffee) ⭐ 225 | 🐛 6 | 🌐 JavaScript | 📅 2020-12-16 - [Coffeescript](https://github.com/jashkenas/coffeescript) ⭐ 16,599 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 → JavaScript.
+* [gulp-stylus](https://github.com/stevelacy/gulp-stylus) ⭐ 220 | 🐛 2 | 🌐 JavaScript | 📅 2023-08-30 - [Stylus](https://github.com/stylus/stylus) ⭐ 11,330 | 🐛 282 | 🌐 JavaScript | 📅 2025-04-24 → CSS.
 * [gulp-compass](https://github.com/appleboy/gulp-compass) ⭐ 172 | 🐛 43 | 🌐 JavaScript | 📅 2017-09-13 - Sass → CSS with Ruby Sass & Compass.
 
 ### Transpilation
 
-* [gulp-babel](https://github.com/babel/gulp-babel) ⭐ 1,307 | 🐛 33 | 🌐 JavaScript | 📅 2026-07-21 - ES6 → ES5 with [babel](https://github.com/babel/babel) ⭐ 43,996 | 🐛 781 | 🌐 TypeScript | 📅 2026-09-07.
+* [gulp-babel](https://github.com/babel/gulp-babel) ⭐ 1,307 | 🐛 33 | 🌐 JavaScript | 📅 2026-07-21 - ES6 → ES5 with [babel](https://github.com/babel/babel) ⭐ 43,992 | 🐛 782 | 🌐 TypeScript | 📅 2026-09-07.
 * [gulp-traceur](https://github.com/sindresorhus/gulp-traceur) ⚠️ Archived - ES6 → ES5 using [Traceur](https://github.com/google/traceur-compiler) ⚠️ Archived.
 * [gulp-cssnext](https://github.com/MoOx/gulp-cssnext) ⚠️ Archived - \[:no\_entry:] Use tomorrow's CSS syntax, today, using [cssnext](https://github.com/MoOx/postcss-cssnext) ⚠️ Archived.
 * [gulp-es6-transpiler](https://github.com/sindresorhus/gulp-es6-transpiler) ⚠️ Archived - \[:no\_entry:] ES6 → ES5 with [es6-transpiler](https://github.com/termi/es6-transpiler) ⭐ 215 | 🐛 38 | 🌐 JavaScript | 📅 2015-07-19.
@@ -163,15 +163,15 @@
 ### Minification
 
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) ⭐ 1,902 | 🐛 23 | 🌐 JavaScript | 📅 2025-11-11 - Minify PNG, JPEG, GIF and SVG images with [imagemin](https://github.com/imagemin/imagemin) ⭐ 5,721 | 🐛 79 | 🌐 JavaScript | 📅 2025-03-07.
-* [gulp-uglify](https://github.com/terinjokes/gulp-uglify) ⭐ 1,213 | 🐛 18 | 🌐 JavaScript | 📅 2021-06-23 - Minify JavaScript with [UglifyJS2](https://github.com/mishoo/UglifyJS2) ⭐ 13,381 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22.
+* [gulp-uglify](https://github.com/terinjokes/gulp-uglify) ⭐ 1,213 | 🐛 18 | 🌐 JavaScript | 📅 2021-06-23 - Minify JavaScript with [UglifyJS2](https://github.com/mishoo/UglifyJS2) ⭐ 13,380 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22.
 * [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) ⭐ 722 | 🐛 7 | 🌐 HTML | 📅 2019-11-08 - Minify HTML with [html-minifier](https://github.com/kangax/html-minifier) ⭐ 5,035 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-26.
-* [gulp-clean-css](https://github.com/scniro/gulp-clean-css) ⭐ 642 | 🐛 14 | 🌐 JavaScript | 📅 2024-03-26 - Minify CSS with [clean-css](https://github.com/jakubpawlowicz/clean-css) ⭐ 4,199 | 🐛 45 | 🌐 JavaScript | 📅 2024-10-18.
+* [gulp-clean-css](https://github.com/scniro/gulp-clean-css) ⭐ 642 | 🐛 14 | 🌐 JavaScript | 📅 2024-03-26 - Minify CSS with [clean-css](https://github.com/jakubpawlowicz/clean-css) ⭐ 4,198 | 🐛 45 | 🌐 JavaScript | 📅 2024-10-18.
 * [gulp-svgmin](https://github.com/ben-eb/gulp-svgmin) ⭐ 339 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-11 - Minify SVG files with gulp.
 * [gulp-csso](https://github.com/ben-eb/gulp-csso) ⭐ 239 | 🐛 4 | 🌐 JavaScript | 📅 2022-03-25 - Minify CSS with [CSSO](https://github.com/css/csso) ⭐ 3,785 | 🐛 103 | 🌐 JavaScript | 📅 2024-06-21.
 
 ### Optimization
 
-* [gulp-uncss](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived - Remove unused CSS selectors with [UnCSS](https://github.com/giakki/uncss) ⭐ 9,398 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18.
+* [gulp-uncss](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived - Remove unused CSS selectors with [UnCSS](https://github.com/giakki/uncss) ⭐ 9,397 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18.
 * [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) ⭐ 849 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-08 - Create icon fonts from several SVG icons.
 * [gulp-svgstore](https://github.com/w0rm/gulp-svgstore) ⭐ 640 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-07 - Combine svg files into one with `<symbol>` elements.
 * [gulp-responsive](https://github.com/mahnunchik/gulp-responsive) ⭐ 495 | 🐛 44 | 🌐 JavaScript | 📅 2021-08-04 - Generate images at different sizes.
@@ -180,40 +180,40 @@
 
 ### Injecting Assets
 
-* [wiredep](https://github.com/taptapship/wiredep) ⭐ 1,143 | 🐛 33 | 🌐 JavaScript | 📅 2017-02-17 - Wire Bower dependencies to your source code.
+* [wiredep](https://github.com/taptapship/wiredep) ⭐ 1,142 | 🐛 33 | 🌐 JavaScript | 📅 2017-02-17 - Wire Bower dependencies to your source code.
 * [gulp-inject](https://github.com/klei/gulp-inject) ⭐ 807 | 🐛 63 | 🌐 JavaScript | 📅 2023-08-28 - Transform each file to a string and inject each transformed string into placeholders in the target stream files.
 * [gulp-useref](https://github.com/jonkemp/gulp-useref) ⭐ 700 | 🐛 38 | 🌐 JavaScript | 📅 2022-03-27 - Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
 
 ### Templating
 
 * [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) ⭐ 522 | 🐛 6 | 🌐 JavaScript | 📅 2022-02-17 - Concatenate and register AngularJS templates in the $templateCache.
-* [gulp-jade](https://github.com/phated/gulp-jade) ⭐ 517 | 🐛 4 | 🌐 JavaScript | 📅 2023-06-12 - [Jade](https://github.com/pugjs/jade) ⭐ 21,847 | 🐛 335 | 🌐 JavaScript | 📅 2026-03-13 → HTML.
-* [gulp-template](https://github.com/sindresorhus/gulp-template) ⭐ 287 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09 - [Lodash](https://github.com/lodash/lodash) ⭐ 61,278 | 🐛 104 | 🌐 JavaScript | 📅 2026-07-03 templates → JavaScript.
+* [gulp-jade](https://github.com/phated/gulp-jade) ⭐ 517 | 🐛 4 | 🌐 JavaScript | 📅 2023-06-12 - [Jade](https://github.com/pugjs/jade) ⭐ 21,846 | 🐛 335 | 🌐 JavaScript | 📅 2026-03-13 → HTML.
+* [gulp-template](https://github.com/sindresorhus/gulp-template) ⭐ 287 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09 - [Lodash](https://github.com/lodash/lodash) ⭐ 61,279 | 🐛 104 | 🌐 JavaScript | 📅 2026-09-09 templates → JavaScript.
 * [gulp-markdown](https://github.com/sindresorhus/gulp-markdown) ⭐ 182 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-03 - Markdown → HTML.
-* [gulp-handlebars](https://github.com/lazd/gulp-handlebars) ⭐ 169 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-01 - [Handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,673 | 🐛 117 | 🌐 JavaScript | 📅 2026-06-24 templates → JavaScript.
-* [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 - [Nunjucks](https://github.com/mozilla/nunjucks) ⭐ 8,995 | 🐛 363 | 🌐 JavaScript | 📅 2026-02-07 templates → JavaScript.
-* [gulp-hb](https://github.com/shannonmoeller/gulp-hb) ⭐ 147 | 🐛 4 | 🌐 JavaScript | 📅 2019-10-28 - [Handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,673 | 🐛 117 | 🌐 JavaScript | 📅 2026-06-24 templates → HTML.
-* [gulp-riot](https://github.com/e-jigsaw/gulp-riot) ⭐ 105 | 🐛 3 | 🌐 JavaScript | 📅 2018-12-07 - [Riot](https://github.com/riot/riot) ⭐ 14,918 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06 templates → JavaScript.
-* [gulp-swig](https://github.com/colynb/gulp-swig) ⭐ 70 | 🐛 23 | 🌐 JavaScript | 📅 2022-12-30 - [Swig](https://github.com/paularmstrong/swig) ⚠️ Archived templates → HTML.
-* [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) ⚠️ Archived - [Dust](https://github.com/linkedin/dustjs) ⭐ 2,901 | 🐛 82 | 🌐 JavaScript | 📅 2023-10-24 templates → JavaScript.
-* [gulp-remark](https://github.com/denysdovhan/gulp-remark) ⚠️ Archived - Gulp plugin for [remark](https://github.com/wooorm/remark) ⭐ 8,999 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01 - markdown processor powered by plugins
+* [gulp-handlebars](https://github.com/lazd/gulp-handlebars) ⭐ 169 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-01 - [Handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,672 | 🐛 116 | 🌐 JavaScript | 📅 2026-06-24 templates → JavaScript.
+* [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-14 - [Nunjucks](https://github.com/mozilla/nunjucks) ⭐ 8,994 | 🐛 364 | 🌐 JavaScript | 📅 2026-02-07 templates → JavaScript.
+* [gulp-hb](https://github.com/shannonmoeller/gulp-hb) ⭐ 147 | 🐛 4 | 🌐 JavaScript | 📅 2019-10-28 - [Handlebars](https://github.com/wycats/handlebars.js) ⭐ 18,672 | 🐛 116 | 🌐 JavaScript | 📅 2026-06-24 templates → HTML.
+* [gulp-riot](https://github.com/e-jigsaw/gulp-riot) ⭐ 105 | 🐛 3 | 🌐 JavaScript | 📅 2018-12-07 - [Riot](https://github.com/riot/riot) ⭐ 14,917 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06 templates → JavaScript.
+* [gulp-swig](https://github.com/colynb/gulp-swig) ⭐ 69 | 🐛 23 | 🌐 JavaScript | 📅 2022-12-30 - [Swig](https://github.com/paularmstrong/swig) ⚠️ Archived templates → HTML.
+* [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) ⚠️ Archived - [Dust](https://github.com/linkedin/dustjs) ⭐ 2,899 | 🐛 82 | 🌐 JavaScript | 📅 2023-10-24 templates → JavaScript.
+* [gulp-remark](https://github.com/denysdovhan/gulp-remark) ⚠️ Archived - Gulp plugin for [remark](https://github.com/wooorm/remark) ⭐ 8,998 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01 - markdown processor powered by plugins
 
 ### Linting
 
 * [gulp-csslint](https://www.npmjs.com/package/gulp-csslint) - Automated linting of CSS with [CSSLint](https://github.com/CSSLint/csslint) ⭐ 4,812 | 🐛 227 | 🌐 JavaScript | 📅 2024-12-05.
-* [gulp-eslint](https://github.com/adametry/gulp-eslint) ⭐ 566 | 🐛 32 | 🌐 JavaScript | 📅 2024-06-23 - Identify and report on patterns found in ECMAScript/JavaScript code.
-* [gulp-jshint](https://github.com/spalger/gulp-jshint) ⭐ 416 | 🐛 15 | 🌐 JavaScript | 📅 2018-10-31 - Detect errors and potential problems in JavaScript with [JSHint](https://github.com/jshint/jshint) ⭐ 9,077 | 🐛 465 | 🌐 JavaScript | 📅 2025-02-13.
+* [gulp-eslint](https://github.com/adametry/gulp-eslint) ⭐ 565 | 🐛 32 | 🌐 JavaScript | 📅 2024-06-23 - Identify and report on patterns found in ECMAScript/JavaScript code.
+* [gulp-jshint](https://github.com/spalger/gulp-jshint) ⭐ 416 | 🐛 15 | 🌐 JavaScript | 📅 2018-10-31 - Detect errors and potential problems in JavaScript with [JSHint](https://github.com/jshint/jshint) ⭐ 9,076 | 🐛 465 | 🌐 JavaScript | 📅 2025-02-13.
 * [gulp-check-unused-css](https://github.com/zalando/gulp-check-unused-css) ⚠️ Archived - Check your HTML templates for unused CSS classes.
 * [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) ⭐ 311 | 🐛 13 | 🌐 JavaScript | 📅 2018-02-16 - Check JavaScript code style with [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived.
-* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) ⭐ 123 | 🐛 24 | 🌐 JavaScript | 📅 2023-04-15 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,988 | 🐛 5,056 | 🌐 Go | 📅 2026-09-05 linter plugin for gulp.
-* [gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) ⭐ 80 | 🐛 15 | 🌐 JavaScript | 📅 2023-04-24 - [HTMLHint](https://github.com/yaniswang/HTMLHint) ⭐ 3,307 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-03 wrapper to validate your HTML.
+* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) ⭐ 123 | 🐛 24 | 🌐 JavaScript | 📅 2023-04-15 - [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 110,983 | 🐛 5,037 | 🌐 Go | 📅 2026-09-09 linter plugin for gulp.
+* [gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) ⭐ 80 | 🐛 15 | 🌐 JavaScript | 📅 2023-04-24 - [HTMLHint](https://github.com/yaniswang/HTMLHint) ⭐ 3,306 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-09 wrapper to validate your HTML.
 * [gulp-w3cjs](https://github.com/callumacrae/gulp-w3cjs) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-16 - Validate HTML with [w3cjs](https://github.com/thomasdavis/w3cjs) ⭐ 158 | 🐛 13 | 🌐 JavaScript | 📅 2017-06-07.
-* [gulp-coffeelint](https://github.com/janraasch/gulp-coffeelint) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-05-02 - A style checker that helps keep [CoffeeScript](https://github.com/jashkenas/coffeescript) ⭐ 16,598 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 code clean.
+* [gulp-coffeelint](https://github.com/janraasch/gulp-coffeelint) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-05-02 - A style checker that helps keep [CoffeeScript](https://github.com/jashkenas/coffeescript) ⭐ 16,599 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 code clean.
 * [gulp-lesshint](https://github.com/lesshint/gulp-lesshint) ⭐ 14 | 🐛 2 | 🌐 JavaScript | 📅 2019-11-30 - Lint less files with [lesshint](https://github.com/lesshint/lesshint) ⭐ 117 | 🐛 19 | 🌐 JavaScript | 📅 2022-04-22.
 
 ### Live Reload
 
-* [browser-sync](https://github.com/BrowserSync/browser-sync) ⭐ 12,292 | 🐛 575 | 🌐 JavaScript | 📅 2026-05-09 - Keep multiple browsers & devices in sync when building websites ([recipes](https://github.com/BrowserSync/gulp-browser-sync) ⭐ 383 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-30).
+* [browser-sync](https://github.com/BrowserSync/browser-sync) ⭐ 12,291 | 🐛 575 | 🌐 JavaScript | 📅 2026-05-09 - Keep multiple browsers & devices in sync when building websites ([recipes](https://github.com/BrowserSync/gulp-browser-sync) ⭐ 383 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-30).
 * [gulp-livereload](https://github.com/vohof/gulp-livereload) ⭐ 762 | 🐛 31 | 🌐 JavaScript | 📅 2019-09-30 - Gulp plugin for livereload.
 
 ### Caching
@@ -225,36 +225,36 @@
 
 ### Flow Control
 
-* [run-sequence](https://github.com/OverZealous/run-sequence) ⭐ 954 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-03 - Run a series of dependent gulp tasks in order.
+* [run-sequence](https://github.com/OverZealous/run-sequence) ⭐ 953 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-03 - Run a series of dependent gulp tasks in order.
 * [gulp-if](https://github.com/robrich/gulp-if) ⭐ 645 | 🐛 9 | 🌐 JavaScript | 📅 2020-06-19 - Conditionally run a task.
 * [merge-stream](https://github.com/grncdr/merge-stream) ⭐ 212 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-20 - Merge multiple streams into one interleaved stream.
 * [streamqueue](https://github.com/nfroidure/StreamQueue) ⭐ 62 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-08 - Pipe queued streams progressively.
 
 ### Logging
 
-* [gulp-notify](https://github.com/mikaelbr/gulp-notify) ⭐ 590 | 🐛 38 | 🌐 JavaScript | 📅 2026-01-21 - Notification plugin for gulp.
+* [gulp-notify](https://github.com/mikaelbr/gulp-notify) ⭐ 589 | 🐛 38 | 🌐 JavaScript | 📅 2026-01-21 - Notification plugin for gulp.
 * [gulp-size](https://github.com/sindresorhus/gulp-size) ⭐ 225 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-24 - Display the size of your project.
 * [gulp-debug](https://github.com/sindresorhus/gulp-debug) ⭐ 220 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Debug vinyl file streams to see what files are run through your gulp pipeline.
 * [gulp-beer](https://github.com/lordgiotto/gulp-beer) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-27 - Better Error Reporting with interactive system notifications and custom server for error displaying.
 
 ### Testing
 
-* [gulp-mocha](https://github.com/sindresorhus/gulp-mocha) ⭐ 378 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-19 - Run [Mocha](https://github.com/mochajs/mocha) ⭐ 22,905 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-08 tests.
+* [gulp-mocha](https://github.com/sindresorhus/gulp-mocha) ⭐ 378 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-19 - Run [Mocha](https://github.com/mochajs/mocha) ⭐ 22,899 | 🐛 233 | 🌐 JavaScript | 📅 2026-09-08 tests.
 * [gulp-karma](https://github.com/karma-runner/gulp-karma) ⚠️ Archived - Karma test runner for gulp.
 * [gulp-protractor](https://github.com/mllrsohn/gulp-protractor) ⭐ 136 | 🐛 20 | 🌐 JavaScript | 📅 2022-10-25 - Gulp wrapper for [Protractor](https://github.com/angular/protractor) ⚠️ Archived tests.
 * [gulp-jasmine](https://github.com/sindresorhus/gulp-jasmine) ⭐ 112 | 🐛 13 | 🌐 JavaScript | 📅 2022-04-03 - Run [Jasmine 2](https://github.com/jasmine/jasmine) ⭐ 15,819 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-20 tests in Node.js.
 * [gulp-coverage](https://github.com/dylanb/gulp-coverage) ⚠️ Archived - Coverage reporting for Node.js that is independent of the test runner.
-* [gulp-ava](https://github.com/sindresorhus/gulp-ava) ⚠️ Archived- Run [AVA](https://github.com/sindresorhus/ava) ⭐ 20,827 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17 tests with gulp.
+* [gulp-ava](https://github.com/sindresorhus/gulp-ava) ⚠️ Archived- Run [AVA](https://github.com/sindresorhus/ava) ⭐ 20,826 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17 tests with gulp.
 
 ### Miscellaneous Plugins
 
-* [autoprefixer](https://github.com/postcss/autoprefixer) ⭐ 22,231 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-04 - Parse CSS and add vendor prefixes to rules by Can I Use.
+* [autoprefixer](https://github.com/postcss/autoprefixer) ⭐ 22,228 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-04 - Parse CSS and add vendor prefixes to rules by Can I Use.
 * [gulp-rev](https://github.com/sindresorhus/gulp-rev) ⭐ 1,535 | 🐛 16 | 🌐 JavaScript | 📅 2025-10-31 - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.
-* [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files/folders using globs.
+* [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files/folders using globs.
 * [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) ⭐ 1,093 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-11 - Provide source map support.
 * [gulp-util](https://github.com/gulpjs/gulp-util) ⚠️ Archived - Set of useful utilities.
 * [gulp-plumber](https://github.com/floatdrop/gulp-plumber) ⚠️ Archived - Prevent pipe breaking caused by errors.
-* [gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) ⭐ 755 | 🐛 1 | 🌐 JavaScript | 📅 2025-02-07 - Automatically load in gulp plugins.
+* [gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) ⭐ 754 | 🐛 1 | 🌐 JavaScript | 📅 2025-02-07 - Automatically load in gulp plugins.
 * [gulp-rename](https://github.com/hparra/gulp-rename) ⭐ 686 | 🐛 11 | 🌐 JavaScript | 📅 2025-07-16 - Rename files easily.
 * [gulp-file-include](https://github.com/coderhaoxin/gulp-file-include) ⚠️ Archived - Include files with gulp.
 * [gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages) ⭐ 606 | 🐛 12 | 🌐 JavaScript | 📅 2019-12-14 - Publish contents to Github pages.
@@ -266,7 +266,7 @@
 * [gulp-zip](https://github.com/sindresorhus/gulp-zip) ⭐ 271 | 🐛 7 | 🌐 JavaScript | 📅 2025-01-09 - ZIP compress files.
 * [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) ⭐ 265 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-12 - Add AngularJS dependency injection annotations with [ng-annotate](https://github.com/olov/ng-annotate) ⭐ 2,003 | 🐛 6 | 🌐 JavaScript | 📅 2020-03-13.
 * [gulp-bump](https://github.com/stevelacy/gulp-bump) ⚠️ Archived - Bump any semver JSON version.
-* [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) ⭐ 249 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-11 - Strip console, alert, and debugger statements from JavaScript code.
+* [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) ⭐ 248 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-11 - Strip console, alert, and debugger statements from JavaScript code.
 * [gulp-exec](https://github.com/robrich/gulp-exec) ⭐ 162 | 🐛 4 | 🌐 JavaScript | 📅 2020-06-19 - Run a shell command.
 * [gulp-cssimport](https://github.com/unlight/gulp-cssimport) ⭐ 35 | 🐛 2 | 🌐 JavaScript | 📅 2019-09-02 - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.
 * [gulp-eval](https://github.com/gulp-bem/gulp-eval) ⭐ 6 | 🐛 6 | 🌐 JavaScript | 📅 2017-05-31 - Eval JS-expression or require CommonJS modules and JSON files.
@@ -293,7 +293,7 @@
 
 * [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp) ⭐ 3,737 | 🐛 17 | 🌐 JavaScript | 📅 2024-01-30 - A gulp generator for modern webapps.
 * [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) ⭐ 3,684 | 🐛 160 | 🌐 JavaScript | 📅 2022-06-16 - Yeoman generator for AngularJS with gulp.
-* [generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify) ⭐ 418 | 🐛 18 | 🌐 JavaScript | 📅 2016-10-10 - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
+* [generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify) ⭐ 417 | 🐛 18 | 🌐 JavaScript | 📅 2016-10-10 - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
 * [generator-jekyllized](https://github.com/sondr3/generator-jekyllized) ⭐ 321 | 🐛 8 | 🌐 JavaScript | 📅 2019-10-08 - Jekyll workflow with gulp, Sass, AutoPrefixer, asset optimization and cache busting and much more.
 * [generator-angulpify](https://github.com/jgoux/generator-angulpify) ⚠️ Archived - Yeoman generator involving AngularJS, gulp and Browserify.
 * [generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) ⭐ 135 | 🐛 9 | 🌐 JavaScript | 📅 2016-09-16 - A Yeoman generator for Ionic Projects with gulp.
@@ -316,4 +316,4 @@ To the extent possible under law, [Philipp Alferov](https://github.com/alferov) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

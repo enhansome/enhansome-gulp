@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -70,7 +70,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -91,7 +91,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -112,7 +112,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -133,7 +133,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -154,7 +154,7 @@
                 "open_issues": 34,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32937,
+                "stars": 32935,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -184,7 +184,7 @@
                     "open_issues": 34,
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32937,
+                    "stars": 32935,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1366,7 +1366,7 @@
                 "open_issues": 32,
                 "owner": "adametry",
                 "repo": "gulp-eslint",
-                "stars": 565,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1497,7 +1497,7 @@
                 "open_issues": 0,
                 "owner": "callumacrae",
                 "repo": "gulp-w3cjs",
-                "stars": 57,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 38,
                 "owner": "mikaelbr",
                 "repo": "gulp-notify",
-                "stars": 589,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1884,7 +1884,7 @@
                 "open_issues": 0,
                 "owner": "lordgiotto",
                 "repo": "gulp-beer",
-                "stars": 12,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2584,7 +2584,7 @@
                 "open_issues": 74,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18270,
+                "stars": 18269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:04:53.274Z",
+    "last_updated": "2026-09-14T18:54:36.273Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",
@@ -3163,7 +3163,7 @@
       "open_issues": 4,
       "owner": "alferov",
       "repo": "awesome-gulp",
-      "stars": 624,
+      "stars": 622,
       "topics": [
         "automation",
         "awesome-list",

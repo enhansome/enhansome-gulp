@@ -990,7 +990,7 @@
                 "open_issues": 33,
                 "owner": "taptapship",
                 "repo": "wiredep",
-                "stars": 1142,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2132,7 +2132,7 @@
                 "id": 17343493,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-09-18T16:40:16Z",
+                "last_commit": "2026-09-21T19:35:02Z",
                 "open_issues": 26,
                 "owner": "gulp-sourcemaps",
                 "repo": "gulp-sourcemaps",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:56:20.315Z",
+    "last_updated": "2026-09-22T17:46:49.147Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

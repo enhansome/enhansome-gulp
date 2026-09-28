@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -67,10 +67,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -88,10 +88,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -109,10 +109,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -130,10 +130,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -151,10 +151,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32928,
+                "stars": 32927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -181,10 +181,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-02-09T06:30:13Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32928,
+                    "stars": 32927,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4813,
+                "stars": 4814,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1366,7 +1366,7 @@
                 "open_issues": 32,
                 "owner": "adametry",
                 "repo": "gulp-eslint",
-                "stars": 564,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1473,7 +1473,7 @@
                 "open_issues": 15,
                 "owner": "bezoerb",
                 "repo": "gulp-htmlhint",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "gulp-plugin",
                   "htmlhint"
@@ -1497,7 +1497,7 @@
                 "open_issues": 0,
                 "owner": "callumacrae",
                 "repo": "gulp-w3cjs",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 38,
                 "owner": "mikaelbr",
                 "repo": "gulp-notify",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1884,7 +1884,7 @@
                 "open_issues": 0,
                 "owner": "lordgiotto",
                 "repo": "gulp-beer",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22226,
+                "stars": 22227,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2907,7 +2907,7 @@
                 "open_issues": 160,
                 "owner": "Swiip",
                 "repo": "generator-gulp-angular",
-                "stars": 3683,
+                "stars": 3682,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:57:10.088Z",
+    "last_updated": "2026-09-28T20:16:35.043Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",
@@ -3163,7 +3163,7 @@
       "open_issues": 4,
       "owner": "alferov",
       "repo": "awesome-gulp",
-      "stars": 622,
+      "stars": 623,
       "topics": [
         "automation",
         "awesome-list",

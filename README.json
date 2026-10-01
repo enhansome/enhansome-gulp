@@ -1452,7 +1452,7 @@
                 "open_issues": 24,
                 "owner": "panuhorsmalahti",
                 "repo": "gulp-tslint",
-                "stars": 123,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 39,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22225,
+                "stars": 22211,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2293,7 +2293,7 @@
                 "open_issues": 8,
                 "owner": "ck86",
                 "repo": "main-bower-files",
-                "stars": 578,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:36:55.840Z",
+    "last_updated": "2026-10-01T19:04:59.550Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

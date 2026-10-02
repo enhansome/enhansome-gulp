@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "gulpjs",
                 "repo": "plugins",
-                "stars": 276,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4814,
+                "stars": 4813,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 577,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12287,
+                "stars": 12288,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:04:59.550Z",
+    "last_updated": "2026-10-02T18:44:41.158Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

@@ -873,7 +873,7 @@
                 "open_issues": 21,
                 "owner": "nfroidure",
                 "repo": "gulp-iconfont",
-                "stars": 848,
+                "stars": 847,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2059,7 +2059,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-19T18:34:46Z",
-                "open_issues": 39,
+                "open_issues": 41,
                 "owner": "postcss",
                 "repo": "autoprefixer",
                 "stars": 22211,
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:59.781Z",
+    "last_updated": "2026-10-03T17:38:51.949Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

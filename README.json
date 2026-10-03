@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Github Repository",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Blacklisted Plugins",
-              "description": null,
+              "description": "gulpjs/plugins",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "gulpjs",
                 "repo": "plugins",
-                "stars": 275,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "Getting Started",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -70,7 +70,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "API Documentation",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -91,7 +91,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "CLI Documentation",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -112,7 +112,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "Writing a Plugin",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "Recipes",
-              "description": null,
+              "description": "gulpjs/gulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -154,7 +154,7 @@
                 "open_issues": 35,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32925,
+                "stars": 32926,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -171,7 +171,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast Browserify Builds with Watchify",
-                  "description": null,
+                  "description": "gulpjs/gulp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -184,7 +184,7 @@
                     "open_issues": 35,
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32925,
+                    "stars": 32926,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:57.113Z"
@@ -204,7 +204,7 @@
             {
               "node_type": "item",
               "title": "Gulp Cheatsheet",
-              "description": null,
+              "description": "osscafe/gulp-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "Playground for Gulp Recipes",
-              "description": null,
+              "description": "johnpapa/gulp-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -473,7 +473,7 @@
                 "open_issues": 43,
                 "owner": "appleboy",
                 "repo": "gulp-compass",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "compass",
                   "compass-plugin",
@@ -2359,7 +2359,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "gulp-filter",
-                "stars": 313,
+                "stars": 312,
                 "topics": [
                   "filter",
                   "gulp-plugin",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:41.158Z",
+    "last_updated": "2026-10-03T04:49:59.781Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

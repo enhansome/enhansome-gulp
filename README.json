@@ -508,7 +508,7 @@
                 "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
-                "stars": 1307,
+                "stars": 1306,
                 "topics": [
                   "babel",
                   "gulp-plugin"
@@ -1570,7 +1570,7 @@
                 "open_issues": 577,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12288,
+                "stars": 12287,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2662,7 +2662,7 @@
                 "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2429,
+                "stars": 2428,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:38:51.949Z",
+    "last_updated": "2026-10-04T17:53:19.179Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

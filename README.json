@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "gulpjs",
                 "repo": "plugins",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -357,7 +357,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2021-06-20T16:51:24Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "gulp-community",
                 "repo": "gulp-less",
                 "stars": 558,
@@ -2058,8 +2058,8 @@
                 "id": 8768406,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T18:34:46Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-05T09:36:58Z",
+                "open_issues": 38,
                 "owner": "postcss",
                 "repo": "autoprefixer",
                 "stars": 22211,
@@ -2136,7 +2136,7 @@
                 "open_issues": 26,
                 "owner": "gulp-sourcemaps",
                 "repo": "gulp-sourcemaps",
-                "stars": 1094,
+                "stars": 1093,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2311,7 +2311,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2022-12-17T16:36:56Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "lazd",
                 "repo": "gulp-replace",
                 "stars": 495,
@@ -2503,7 +2503,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2020-06-19T16:59:49Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "robrich",
                 "repo": "gulp-exec",
                 "stars": 162,
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:53:19.179Z",
+    "last_updated": "2026-10-05T21:22:25.465Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

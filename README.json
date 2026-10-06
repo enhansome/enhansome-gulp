@@ -700,7 +700,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1902,
+                "stars": 1901,
                 "topics": [
                   "compress-images",
                   "gulp-plugin",
@@ -1570,7 +1570,7 @@
                 "open_issues": 577,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12287,
+                "stars": 12286,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 38,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22211,
+                "stars": 22212,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2136,7 +2136,7 @@
                 "open_issues": 26,
                 "owner": "gulp-sourcemaps",
                 "repo": "gulp-sourcemaps",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5629,
+                "stars": 5628,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:32.152Z",
+    "last_updated": "2026-10-06T19:08:02.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

@@ -2199,7 +2199,7 @@
                 "open_issues": 1,
                 "owner": "jackfranklin",
                 "repo": "gulp-load-plugins",
-                "stars": 753,
+                "stars": 752,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:22:25.465Z",
+    "last_updated": "2026-10-06T10:33:32.152Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

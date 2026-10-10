@@ -1567,10 +1567,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-09T08:29:15Z",
-                "open_issues": 577,
+                "open_issues": 578,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12288,
+                "stars": 12289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22208,
+                "stars": 22209,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:04:10.879Z",
+    "last_updated": "2026-10-10T18:04:41.548Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

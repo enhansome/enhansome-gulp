@@ -238,7 +238,7 @@
                 "open_issues": 23,
                 "owner": "johnpapa",
                 "repo": "gulp-patterns",
-                "stars": 499,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -852,7 +852,7 @@
                 "open_issues": 3,
                 "owner": "ben-eb",
                 "repo": "gulp-uncss",
-                "stars": 928,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 578,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12289,
+                "stars": 12288,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1591,7 +1591,7 @@
                 "open_issues": 31,
                 "owner": "gulp-community",
                 "repo": "gulp-livereload",
-                "stars": 761,
+                "stars": 760,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22209,
+                "stars": 22208,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2584,7 +2584,7 @@
                 "open_issues": 74,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18266,
+                "stars": 18265,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5319,
+                "stars": 5318,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:29:19.258Z",
+    "last_updated": "2026-10-12T21:53:08.066Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

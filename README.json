@@ -360,7 +360,7 @@
                 "open_issues": 9,
                 "owner": "gulp-community",
                 "repo": "gulp-less",
-                "stars": 558,
+                "stars": 557,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 578,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12288,
+                "stars": 12289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22208,
+                "stars": 22206,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2220,7 +2220,7 @@
                 "open_issues": 11,
                 "owner": "hparra",
                 "repo": "gulp-rename",
-                "stars": 685,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2241,7 +2241,7 @@
                 "open_issues": 0,
                 "owner": "haoxins",
                 "repo": "gulp-file-include",
-                "stars": 675,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5625,
+                "stars": 5626,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:58:10.481Z",
+    "last_updated": "2026-10-14T18:11:42.345Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

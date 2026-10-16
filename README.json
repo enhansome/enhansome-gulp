@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -67,7 +67,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -88,7 +88,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -109,7 +109,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -130,7 +130,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -151,7 +151,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-09T06:30:13Z",
-                "open_issues": 35,
+                "open_issues": 31,
                 "owner": "gulpjs",
                 "repo": "gulp",
                 "stars": 32921,
@@ -181,7 +181,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-02-09T06:30:13Z",
-                    "open_issues": 35,
+                    "open_issues": 31,
                     "owner": "gulpjs",
                     "repo": "gulp",
                     "stars": 32921,
@@ -293,7 +293,7 @@
                 "open_issues": 55,
                 "owner": "shama",
                 "repo": "webpack-stream",
-                "stars": 1385,
+                "stars": 1384,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 578,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12289,
+                "stars": 12291,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22206,
+                "stars": 22205,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2584,7 +2584,7 @@
                 "open_issues": 74,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18264,
+                "stars": 18265,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:54:49.347Z",
+    "last_updated": "2026-10-16T17:42:45.476Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

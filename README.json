@@ -504,7 +504,7 @@
                 "id": 24635108,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-21T18:39:23Z",
+                "last_commit": "2026-10-18T11:11:17Z",
                 "open_issues": 33,
                 "owner": "babel",
                 "repo": "gulp-babel",
@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5625,
+                "stars": 5623,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:40:30.955Z",
+    "last_updated": "2026-10-18T16:58:06.251Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

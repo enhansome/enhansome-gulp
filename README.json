@@ -2062,7 +2062,7 @@
                 "open_issues": 37,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22204,
+                "stars": 22203,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:07:49.875Z",
+    "last_updated": "2026-10-21T18:16:57.578Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

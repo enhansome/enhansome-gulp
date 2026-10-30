@@ -700,7 +700,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "compress-images",
                   "gulp-plugin",
@@ -1591,7 +1591,7 @@
                 "open_issues": 31,
                 "owner": "gulp-community",
                 "repo": "gulp-livereload",
-                "stars": 760,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2371,30 +2371,6 @@
             },
             {
               "node_type": "item",
-              "title": "gulp-inline-css",
-              "description": "Inline your CSS properties into the style attribute in an HTML file.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Inline linked css in an html file. Useful for emails.",
-                "homepage": null,
-                "id": 16658637,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2021-10-19T03:49:30Z",
-                "open_issues": 28,
-                "owner": "jonkemp",
-                "repo": "gulp-inline-css",
-                "stars": 271,
-                "topics": [
-                  "gulp-plugin",
-                  "inline-css"
-                ]
-              },
-              "first_seen": "2026-08-28T23:13:57.113Z"
-            },
-            {
-              "node_type": "item",
               "title": "gulp-zip",
               "description": "ZIP compress files.",
               "children": [],
@@ -2416,6 +2392,30 @@
                   "javascript",
                   "nodejs",
                   "zip"
+                ]
+              },
+              "first_seen": "2026-08-28T23:13:57.113Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gulp-inline-css",
+              "description": "Inline your CSS properties into the style attribute in an HTML file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Inline linked css in an html file. Useful for emails.",
+                "homepage": null,
+                "id": 16658637,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2021-10-19T03:49:30Z",
+                "open_issues": 28,
+                "owner": "jonkemp",
+                "repo": "gulp-inline-css",
+                "stars": 270,
+                "topics": [
+                  "gulp-plugin",
+                  "inline-css"
                 ]
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18259,
+                "stars": 18258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -3120,7 +3120,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-app",
-            "stars": 947,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:17:57.329Z",
+    "last_updated": "2026-10-30T18:54:06.559Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

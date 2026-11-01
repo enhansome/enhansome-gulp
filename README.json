@@ -2605,7 +2605,7 @@
                 "open_issues": 0,
                 "owner": "rappasoft",
                 "repo": "laravel-boilerplate",
-                "stars": 5625,
+                "stars": 5624,
                 "topics": [
                   "boilerplate",
                   "laravel",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:58:48.149Z",
+    "last_updated": "2026-11-01T18:37:21.491Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

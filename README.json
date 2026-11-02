@@ -2062,7 +2062,7 @@
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
-                "stars": 22199,
+                "stars": 22197,
                 "topics": [
                   "css",
                   "postcss-plugins",
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18257,
+                "stars": 18256,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -2883,7 +2883,7 @@
                 "open_issues": 17,
                 "owner": "yeoman",
                 "repo": "generator-webapp",
-                "stars": 3735,
+                "stars": 3734,
                 "topics": [
                   "gulp",
                   "yeoman"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:37:21.491Z",
+    "last_updated": "2026-11-02T22:29:45.490Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

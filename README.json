@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -70,7 +70,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -91,7 +91,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -112,7 +112,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -133,7 +133,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -154,7 +154,7 @@
                 "open_issues": 30,
                 "owner": "gulpjs",
                 "repo": "gulp",
-                "stars": 32917,
+                "stars": 32916,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -184,7 +184,7 @@
                     "open_issues": 30,
                     "owner": "gulpjs",
                     "repo": "gulp",
-                    "stars": 32917,
+                    "stars": 32916,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:57.113Z"
@@ -314,7 +314,7 @@
                 "open_issues": 62,
                 "owner": "ivogabe",
                 "repo": "gulp-typescript",
-                "stars": 851,
+                "stars": 850,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4811,
+                "stars": 4809,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1473,7 +1473,7 @@
                 "open_issues": 15,
                 "owner": "bezoerb",
                 "repo": "gulp-htmlhint",
-                "stars": 82,
+                "stars": 81,
                 "topics": [
                   "gulp-plugin",
                   "htmlhint"
@@ -1570,7 +1570,7 @@
                 "open_issues": 578,
                 "owner": "BrowserSync",
                 "repo": "browser-sync",
-                "stars": 12290,
+                "stars": 12289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2175,7 +2175,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2018-11-27T16:39:27Z",
-                "open_issues": 19,
+                "open_issues": 18,
                 "owner": "floatdrop",
                 "repo": "gulp-plumber",
                 "stars": 796,
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:29:45.490Z",
+    "last_updated": "2026-11-03T20:18:02.185Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

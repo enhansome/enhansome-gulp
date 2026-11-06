@@ -700,7 +700,7 @@
                 "open_issues": 23,
                 "owner": "sindresorhus",
                 "repo": "gulp-imagemin",
-                "stars": 1902,
+                "stars": 1901,
                 "topics": [
                   "compress-images",
                   "gulp-plugin",
@@ -852,7 +852,7 @@
                 "open_issues": 3,
                 "owner": "ben-eb",
                 "repo": "gulp-uncss",
-                "stars": 925,
+                "stars": 924,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2241,7 +2241,7 @@
                 "open_issues": 0,
                 "owner": "haoxins",
                 "repo": "gulp-file-include",
-                "stars": 675,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18256,
+                "stars": 18255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:50:34.836Z",
+    "last_updated": "2026-11-06T20:06:40.935Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

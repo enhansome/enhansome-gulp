@@ -1345,7 +1345,7 @@
                 "open_issues": 227,
                 "owner": "CSSLint",
                 "repo": "csslint",
-                "stars": 4809,
+                "stars": 4810,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2058,7 +2058,7 @@
                 "id": 8768406,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T21:30:15Z",
+                "last_commit": "2026-11-06T21:23:11Z",
                 "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
@@ -2662,7 +2662,7 @@
                 "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2428,
+                "stars": 2427,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:06:40.935Z",
+    "last_updated": "2026-11-07T18:21:08.113Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

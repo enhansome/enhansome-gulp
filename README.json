@@ -1760,7 +1760,7 @@
                 "open_issues": 0,
                 "owner": "grncdr",
                 "repo": "merge-stream",
-                "stars": 211,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2115,7 +2115,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "del",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18256,
+                "stars": 18257,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:43.487Z",
+    "last_updated": "2026-11-15T19:28:37.467Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

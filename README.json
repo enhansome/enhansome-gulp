@@ -2058,8 +2058,8 @@
                 "id": 8768406,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T20:33:33Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-20T13:37:34Z",
+                "open_issues": 36,
                 "owner": "postcss",
                 "repo": "autoprefixer",
                 "stars": 22197,
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18256,
+                "stars": 18255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3099,7 +3099,7 @@
             "open_issues": 70,
             "owner": "laravel",
             "repo": "elixir",
-            "stars": 1066,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.113Z"
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:52:17.734Z",
+    "last_updated": "2026-11-20T21:33:52.953Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",

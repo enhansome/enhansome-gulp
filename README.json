@@ -1028,8 +1028,8 @@
                 "id": 15972887,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2022-03-27T18:50:12Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-26T18:40:37Z",
+                "open_issues": 46,
                 "owner": "jonkemp",
                 "repo": "gulp-useref",
                 "stars": 699,
@@ -1431,7 +1431,7 @@
                 "open_issues": 13,
                 "owner": "jscs-dev",
                 "repo": "gulp-jscs",
-                "stars": 311,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2059,7 +2059,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-22T22:20:53Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "postcss",
                 "repo": "autoprefixer",
                 "stars": 22196,
@@ -2584,7 +2584,7 @@
                 "open_issues": 73,
                 "owner": "google",
                 "repo": "web-starter-kit",
-                "stars": 18250,
+                "stars": 18249,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.113Z"
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5319,
+                "stars": 5320,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -3151,7 +3151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:49:54.856Z",
+    "last_updated": "2026-11-26T22:38:23.660Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp",
